@@ -1,0 +1,3001 @@
+Screen_Time_Hours,Social_Media_Hours,Gaming_Hours,Notifications_Per_Day,Sleep_Hours,Addiction
+7,5,3,98,8,Addicted
+4,3,3,261,6,Not Addicted
+11,3,5,81,5,Addicted
+8,3,5,174,9,Addicted
+5,0,2,58,9,Not Addicted
+7,6,4,61,4,Addicted
+10,3,2,298,8,Addicted
+3,7,2,287,5,Addicted
+7,0,4,123,9,Not Addicted
+11,3,0,248,6,Addicted
+11,4,2,142,6,Addicted
+8,5,2,283,4,Addicted
+5,7,3,175,6,Addicted
+4,3,4,252,6,Addicted
+8,1,1,147,5,Not Addicted
+8,5,0,88,8,Addicted
+3,5,0,179,7,Not Addicted
+6,3,4,132,6,Addicted
+5,6,5,185,6,Addicted
+2,2,5,91,7,Not Addicted
+8,6,3,96,6,Addicted
+12,3,3,234,5,Addicted
+6,5,4,25,5,Addicted
+2,7,3,172,7,Addicted
+12,1,0,107,9,Addicted
+5,7,0,165,6,Addicted
+1,7,1,11,9,Not Addicted
+12,5,5,178,6,Addicted
+10,6,4,101,8,Addicted
+6,1,2,190,6,Not Addicted
+12,0,5,240,5,Addicted
+9,4,2,157,4,Addicted
+1,5,1,289,4,Not Addicted
+11,3,1,198,4,Addicted
+11,0,3,137,4,Addicted
+10,4,1,16,9,Addicted
+12,3,1,56,9,Addicted
+12,7,2,62,6,Addicted
+3,2,3,196,9,Not Addicted
+12,3,1,47,6,Addicted
+7,1,5,235,8,Addicted
+4,1,1,62,6,Not Addicted
+9,2,3,233,4,Addicted
+3,0,4,163,7,Not Addicted
+5,4,3,57,7,Not Addicted
+3,3,2,156,5,Not Addicted
+7,1,4,73,5,Addicted
+5,0,5,191,6,Not Addicted
+9,2,0,134,7,Not Addicted
+7,6,3,188,4,Addicted
+2,5,2,48,9,Not Addicted
+4,6,5,269,4,Addicted
+9,6,4,12,4,Addicted
+12,1,5,73,6,Addicted
+2,7,3,38,6,Not Addicted
+10,7,1,20,8,Addicted
+9,2,3,106,4,Addicted
+10,3,0,212,4,Addicted
+5,7,3,30,6,Addicted
+2,6,4,48,6,Not Addicted
+4,7,4,232,8,Addicted
+12,6,3,111,8,Addicted
+12,4,4,55,5,Addicted
+7,1,1,75,7,Not Addicted
+12,1,5,100,4,Addicted
+8,3,3,173,4,Addicted
+3,7,1,120,8,Not Addicted
+1,7,5,132,8,Addicted
+4,5,5,202,5,Addicted
+2,0,1,108,7,Not Addicted
+8,4,2,168,5,Addicted
+4,1,3,112,7,Not Addicted
+2,4,5,290,9,Not Addicted
+6,1,5,52,4,Addicted
+6,4,4,93,5,Addicted
+10,2,5,200,8,Addicted
+4,6,1,60,5,Not Addicted
+6,1,5,219,9,Not Addicted
+2,4,2,135,5,Not Addicted
+10,7,3,78,4,Addicted
+12,0,3,274,9,Addicted
+2,2,5,267,8,Not Addicted
+10,2,0,197,8,Addicted
+4,0,0,239,6,Not Addicted
+8,4,1,198,9,Addicted
+7,7,0,19,6,Addicted
+12,3,1,123,6,Addicted
+9,0,4,85,4,Addicted
+8,4,1,173,5,Addicted
+5,0,0,94,8,Not Addicted
+2,0,5,58,8,Not Addicted
+5,1,4,186,5,Not Addicted
+8,4,0,227,8,Addicted
+10,3,1,198,5,Addicted
+9,6,2,239,9,Addicted
+12,1,3,264,4,Addicted
+12,0,0,245,4,Addicted
+12,6,1,35,4,Addicted
+9,5,4,81,5,Addicted
+1,6,0,270,5,Not Addicted
+9,0,0,263,7,Not Addicted
+7,0,3,280,8,Not Addicted
+9,7,1,132,8,Addicted
+8,4,2,153,7,Addicted
+1,4,4,266,7,Not Addicted
+12,1,1,153,4,Addicted
+8,3,4,268,7,Addicted
+8,1,0,56,5,Not Addicted
+11,2,3,22,6,Addicted
+3,0,3,217,5,Not Addicted
+1,6,5,244,7,Addicted
+8,5,2,158,8,Addicted
+3,0,3,164,5,Not Addicted
+3,0,0,175,8,Not Addicted
+1,1,2,99,5,Not Addicted
+11,5,1,195,8,Addicted
+5,5,3,183,9,Addicted
+10,5,2,226,5,Addicted
+7,1,0,273,8,Not Addicted
+10,0,5,106,6,Addicted
+9,1,4,126,4,Addicted
+12,4,4,208,5,Addicted
+7,4,0,30,6,Not Addicted
+9,1,0,209,4,Addicted
+8,5,4,257,5,Addicted
+12,7,5,285,6,Addicted
+2,0,2,273,6,Not Addicted
+1,1,4,67,9,Not Addicted
+7,1,0,40,6,Not Addicted
+7,1,3,258,9,Not Addicted
+8,7,1,102,7,Addicted
+5,7,5,274,8,Addicted
+3,2,5,280,4,Addicted
+12,4,3,103,8,Addicted
+8,6,3,163,8,Addicted
+6,5,0,294,9,Addicted
+11,3,4,89,8,Addicted
+3,7,2,93,6,Addicted
+1,6,5,46,9,Not Addicted
+3,7,5,241,8,Addicted
+5,5,3,102,9,Not Addicted
+3,3,4,111,7,Not Addicted
+1,2,5,175,9,Not Addicted
+5,1,2,168,5,Not Addicted
+10,2,3,23,6,Addicted
+7,7,2,234,4,Addicted
+7,2,4,82,5,Addicted
+11,6,5,258,5,Addicted
+9,0,1,100,5,Not Addicted
+10,7,5,225,8,Addicted
+10,7,4,99,9,Addicted
+12,6,5,38,9,Addicted
+3,4,5,229,8,Addicted
+7,3,0,224,6,Addicted
+1,1,5,230,8,Not Addicted
+4,6,5,51,8,Addicted
+4,3,2,144,8,Not Addicted
+5,5,1,51,6,Not Addicted
+7,3,2,173,6,Addicted
+7,5,2,292,7,Addicted
+11,6,3,67,7,Addicted
+4,7,0,34,7,Not Addicted
+7,7,2,82,7,Addicted
+11,4,4,138,9,Addicted
+3,6,4,96,5,Addicted
+6,5,5,162,5,Addicted
+12,3,3,191,7,Addicted
+2,3,0,134,7,Not Addicted
+10,5,0,76,4,Addicted
+9,2,5,15,5,Addicted
+5,4,4,134,4,Addicted
+6,0,1,62,4,Not Addicted
+12,7,3,75,8,Addicted
+12,1,5,91,9,Addicted
+12,3,3,96,6,Addicted
+12,1,4,11,5,Addicted
+4,0,4,213,7,Not Addicted
+11,6,1,159,7,Addicted
+10,1,1,112,6,Addicted
+7,0,0,33,5,Not Addicted
+12,7,3,221,7,Addicted
+9,5,3,74,7,Addicted
+7,2,4,218,8,Addicted
+1,7,0,260,4,Not Addicted
+1,3,5,126,7,Not Addicted
+9,0,3,125,9,Not Addicted
+11,1,0,246,5,Addicted
+9,3,0,114,9,Not Addicted
+4,2,4,268,6,Not Addicted
+9,5,0,55,8,Addicted
+3,6,1,225,5,Addicted
+7,3,1,33,8,Not Addicted
+6,6,2,44,4,Addicted
+8,0,4,33,7,Not Addicted
+11,2,5,37,5,Addicted
+9,1,2,25,6,Not Addicted
+5,2,1,68,4,Not Addicted
+1,2,2,252,4,Not Addicted
+3,4,4,216,8,Not Addicted
+10,2,4,280,4,Addicted
+12,2,0,258,5,Addicted
+8,7,3,276,8,Addicted
+11,3,0,202,4,Addicted
+6,1,4,227,6,Addicted
+8,7,1,124,9,Addicted
+9,7,5,77,5,Addicted
+4,3,1,84,6,Not Addicted
+1,3,0,112,6,Not Addicted
+1,0,5,187,8,Not Addicted
+10,3,4,224,7,Addicted
+4,4,1,48,8,Not Addicted
+12,4,4,268,5,Addicted
+7,7,5,213,5,Addicted
+2,6,5,16,8,Not Addicted
+3,0,1,58,7,Not Addicted
+1,6,4,35,8,Not Addicted
+5,6,2,170,5,Addicted
+1,7,4,185,7,Addicted
+8,5,5,88,5,Addicted
+1,7,4,11,7,Not Addicted
+11,1,0,141,7,Addicted
+1,1,2,285,8,Not Addicted
+2,3,3,126,8,Not Addicted
+2,3,0,173,8,Not Addicted
+12,5,3,297,7,Addicted
+6,3,1,37,7,Not Addicted
+7,1,3,10,5,Not Addicted
+5,6,4,197,6,Addicted
+1,7,3,65,8,Not Addicted
+1,2,5,44,9,Not Addicted
+3,4,0,121,5,Not Addicted
+2,2,0,295,5,Not Addicted
+5,2,3,45,4,Not Addicted
+12,1,0,226,8,Addicted
+10,2,5,89,5,Addicted
+6,7,0,92,4,Addicted
+7,5,3,74,9,Addicted
+4,0,2,137,9,Not Addicted
+7,3,2,31,8,Not Addicted
+11,0,1,225,7,Addicted
+8,6,0,116,4,Addicted
+11,7,3,118,7,Addicted
+1,7,0,190,9,Not Addicted
+6,4,4,173,9,Addicted
+8,7,5,77,6,Addicted
+5,3,0,189,6,Not Addicted
+4,7,0,190,6,Addicted
+2,2,2,178,6,Not Addicted
+6,4,5,31,5,Addicted
+6,3,3,75,6,Addicted
+11,5,0,30,5,Addicted
+1,5,2,109,5,Not Addicted
+9,5,1,112,8,Addicted
+12,5,5,56,5,Addicted
+11,2,2,48,5,Addicted
+6,7,2,294,6,Addicted
+3,0,2,99,5,Not Addicted
+4,3,0,94,7,Not Addicted
+12,2,0,282,6,Addicted
+11,5,1,197,4,Addicted
+4,6,4,168,6,Addicted
+3,7,4,252,5,Addicted
+10,0,4,82,7,Addicted
+3,6,5,58,6,Addicted
+3,4,5,110,7,Not Addicted
+4,6,1,11,4,Not Addicted
+7,4,5,253,9,Addicted
+4,4,4,185,4,Addicted
+9,5,4,247,9,Addicted
+1,4,2,68,8,Not Addicted
+8,1,5,108,9,Addicted
+7,3,0,11,8,Not Addicted
+2,3,0,252,6,Not Addicted
+8,5,2,220,8,Addicted
+1,1,2,132,7,Not Addicted
+11,6,2,238,8,Addicted
+12,2,0,91,7,Addicted
+9,6,4,153,9,Addicted
+9,7,2,149,9,Addicted
+2,2,1,38,9,Not Addicted
+7,4,2,279,8,Addicted
+10,0,3,256,9,Addicted
+3,2,2,21,8,Not Addicted
+7,0,0,115,8,Not Addicted
+12,3,5,41,5,Addicted
+10,0,2,83,5,Addicted
+9,3,5,180,8,Addicted
+4,1,3,78,7,Not Addicted
+12,1,1,146,6,Addicted
+1,5,5,109,4,Not Addicted
+2,5,4,155,5,Addicted
+1,4,2,18,8,Not Addicted
+12,2,3,71,4,Addicted
+5,4,3,194,5,Addicted
+5,3,5,38,6,Addicted
+11,4,1,123,7,Addicted
+7,0,0,152,8,Not Addicted
+9,3,2,129,6,Addicted
+9,5,3,179,5,Addicted
+3,1,1,166,8,Not Addicted
+3,5,4,269,4,Addicted
+3,2,3,91,9,Not Addicted
+4,3,1,251,7,Not Addicted
+8,3,0,181,5,Addicted
+6,0,0,240,7,Not Addicted
+8,2,3,217,8,Addicted
+1,1,3,84,9,Not Addicted
+8,6,5,279,6,Addicted
+4,3,2,123,7,Not Addicted
+11,3,1,71,4,Addicted
+1,0,3,111,5,Not Addicted
+8,4,2,219,4,Addicted
+4,7,5,264,7,Addicted
+6,1,2,29,9,Not Addicted
+8,5,3,67,6,Addicted
+4,2,0,121,6,Not Addicted
+3,3,1,205,4,Not Addicted
+9,3,1,101,8,Addicted
+3,5,0,61,8,Not Addicted
+9,1,3,17,9,Not Addicted
+2,7,1,107,6,Not Addicted
+2,4,3,245,4,Not Addicted
+2,3,5,78,4,Not Addicted
+6,7,3,54,4,Addicted
+3,1,2,146,7,Not Addicted
+9,5,0,243,9,Addicted
+4,0,3,41,8,Not Addicted
+1,4,5,298,8,Not Addicted
+4,2,4,135,7,Not Addicted
+1,3,0,76,5,Not Addicted
+5,1,1,39,7,Not Addicted
+4,0,2,123,9,Not Addicted
+8,2,1,213,4,Addicted
+8,6,5,38,7,Addicted
+7,1,5,140,4,Addicted
+3,1,1,194,9,Not Addicted
+1,2,0,262,9,Not Addicted
+1,0,1,295,6,Not Addicted
+12,6,3,71,4,Addicted
+11,7,1,12,8,Addicted
+3,7,2,77,7,Not Addicted
+6,5,2,34,9,Not Addicted
+7,0,4,188,4,Addicted
+6,4,2,150,5,Addicted
+6,3,1,240,6,Addicted
+6,2,2,172,5,Not Addicted
+3,5,0,139,9,Not Addicted
+6,6,2,255,5,Addicted
+8,2,3,181,5,Addicted
+11,2,0,73,6,Addicted
+11,0,4,40,6,Addicted
+2,3,3,56,6,Not Addicted
+5,4,1,139,6,Not Addicted
+1,7,1,119,5,Not Addicted
+12,1,1,78,8,Addicted
+1,1,3,67,8,Not Addicted
+5,2,3,115,6,Not Addicted
+12,7,3,265,7,Addicted
+3,7,0,180,4,Addicted
+4,3,5,171,9,Not Addicted
+3,6,0,295,7,Not Addicted
+1,6,1,80,9,Not Addicted
+1,5,5,264,7,Not Addicted
+12,0,2,64,7,Addicted
+12,3,1,12,8,Addicted
+5,3,4,35,4,Addicted
+6,0,0,135,7,Not Addicted
+3,7,3,62,6,Addicted
+12,6,0,207,9,Addicted
+9,6,3,197,8,Addicted
+5,7,5,195,9,Addicted
+8,6,4,213,6,Addicted
+1,2,5,20,6,Not Addicted
+5,3,4,155,7,Addicted
+3,1,0,94,6,Not Addicted
+12,0,3,109,4,Addicted
+1,6,5,113,6,Not Addicted
+4,5,4,55,7,Addicted
+5,6,1,53,9,Not Addicted
+7,6,1,287,6,Addicted
+1,4,5,190,8,Not Addicted
+3,2,3,196,8,Not Addicted
+2,0,5,123,8,Not Addicted
+9,4,0,264,9,Addicted
+10,4,4,39,5,Addicted
+6,5,0,273,8,Addicted
+10,3,1,107,8,Addicted
+3,5,4,124,5,Addicted
+8,3,5,285,9,Addicted
+8,3,0,290,8,Addicted
+2,0,2,284,7,Not Addicted
+6,6,3,270,9,Addicted
+7,0,3,216,8,Not Addicted
+2,2,2,220,8,Not Addicted
+11,3,1,224,5,Addicted
+10,4,4,49,7,Addicted
+2,6,3,35,9,Not Addicted
+10,1,2,36,6,Addicted
+1,2,5,199,4,Not Addicted
+8,0,2,92,7,Not Addicted
+1,5,1,179,6,Not Addicted
+9,2,1,176,7,Addicted
+11,2,0,197,6,Addicted
+6,6,3,178,6,Addicted
+7,2,0,298,7,Not Addicted
+10,2,2,238,5,Addicted
+7,1,4,106,7,Not Addicted
+10,7,4,25,7,Addicted
+3,5,1,288,6,Not Addicted
+2,5,4,144,4,Addicted
+9,5,4,35,6,Addicted
+8,3,4,21,8,Addicted
+12,4,2,81,7,Addicted
+10,7,4,142,9,Addicted
+7,5,5,115,7,Addicted
+9,2,4,229,5,Addicted
+4,2,4,186,9,Not Addicted
+4,5,0,291,6,Not Addicted
+1,6,2,142,5,Not Addicted
+8,5,1,31,7,Addicted
+12,2,0,278,6,Addicted
+3,3,3,170,6,Not Addicted
+7,0,2,116,8,Not Addicted
+12,0,5,288,8,Addicted
+2,7,2,244,4,Addicted
+2,7,3,27,8,Not Addicted
+7,5,3,251,9,Addicted
+6,1,3,126,6,Not Addicted
+3,5,1,295,8,Not Addicted
+9,6,4,291,4,Addicted
+10,5,2,153,7,Addicted
+6,7,4,214,9,Addicted
+10,0,4,48,8,Addicted
+10,2,5,163,6,Addicted
+6,5,3,185,7,Addicted
+1,2,1,250,6,Not Addicted
+4,2,5,143,7,Not Addicted
+10,1,0,55,9,Not Addicted
+6,2,1,59,6,Not Addicted
+6,0,4,175,8,Not Addicted
+11,3,1,115,8,Addicted
+12,3,3,225,4,Addicted
+5,4,0,155,7,Not Addicted
+1,6,3,81,4,Not Addicted
+8,5,0,282,5,Addicted
+5,6,5,256,8,Addicted
+12,0,4,195,7,Addicted
+12,2,0,79,9,Addicted
+12,3,0,159,4,Addicted
+5,6,0,255,9,Addicted
+7,0,1,271,9,Not Addicted
+4,3,5,35,9,Not Addicted
+6,2,1,149,4,Not Addicted
+4,6,4,108,5,Addicted
+3,3,0,287,4,Not Addicted
+7,5,5,60,6,Addicted
+8,7,5,160,8,Addicted
+4,5,2,113,4,Addicted
+2,4,4,98,4,Not Addicted
+12,4,5,150,5,Addicted
+10,3,0,222,6,Addicted
+3,7,0,242,4,Addicted
+1,0,5,192,8,Not Addicted
+8,5,1,260,8,Addicted
+3,0,4,18,4,Not Addicted
+12,7,0,88,9,Addicted
+10,0,5,61,9,Addicted
+7,7,0,278,6,Addicted
+10,3,5,235,8,Addicted
+5,0,4,60,9,Not Addicted
+10,5,5,195,8,Addicted
+5,2,2,43,6,Not Addicted
+7,4,5,239,6,Addicted
+9,2,5,140,9,Addicted
+12,0,4,129,4,Addicted
+5,2,5,256,7,Addicted
+1,5,4,201,5,Not Addicted
+10,5,2,219,7,Addicted
+10,0,4,112,7,Addicted
+1,3,0,142,8,Not Addicted
+2,2,4,148,6,Not Addicted
+6,3,2,130,8,Not Addicted
+9,3,3,103,9,Addicted
+8,7,5,138,5,Addicted
+5,1,4,100,9,Not Addicted
+1,0,5,101,4,Not Addicted
+7,4,1,72,5,Addicted
+5,5,0,38,8,Not Addicted
+6,5,0,219,8,Addicted
+7,0,1,21,9,Not Addicted
+3,7,1,139,8,Not Addicted
+12,6,4,182,8,Addicted
+10,6,1,217,7,Addicted
+3,6,3,33,4,Addicted
+5,7,5,108,7,Addicted
+6,4,5,148,8,Addicted
+9,5,2,183,6,Addicted
+12,0,1,38,7,Addicted
+5,7,1,152,8,Addicted
+1,5,3,51,8,Not Addicted
+4,3,0,217,4,Not Addicted
+5,2,0,201,9,Not Addicted
+12,2,5,169,5,Addicted
+10,7,5,73,7,Addicted
+10,5,4,252,7,Addicted
+5,1,3,267,7,Not Addicted
+7,4,2,161,8,Addicted
+4,6,2,224,4,Addicted
+1,4,3,175,8,Not Addicted
+5,4,2,40,8,Not Addicted
+7,7,0,241,9,Addicted
+10,3,2,291,6,Addicted
+10,4,2,38,4,Addicted
+6,2,3,204,7,Not Addicted
+5,3,3,265,5,Addicted
+4,0,2,290,7,Not Addicted
+2,4,1,96,8,Not Addicted
+4,4,3,158,4,Addicted
+10,0,4,258,4,Addicted
+10,4,4,292,4,Addicted
+3,0,0,207,6,Not Addicted
+10,3,2,53,7,Addicted
+1,2,1,37,6,Not Addicted
+8,0,0,26,9,Not Addicted
+5,1,2,136,5,Not Addicted
+4,7,3,177,9,Addicted
+8,7,4,253,8,Addicted
+7,0,5,85,6,Not Addicted
+2,7,1,240,6,Addicted
+1,4,5,213,9,Not Addicted
+12,6,4,257,8,Addicted
+11,6,5,223,4,Addicted
+4,7,3,224,8,Addicted
+8,3,2,167,7,Addicted
+12,5,3,78,9,Addicted
+2,3,5,94,8,Not Addicted
+3,5,3,276,4,Addicted
+12,6,4,78,8,Addicted
+1,6,1,108,6,Not Addicted
+1,0,3,225,5,Not Addicted
+3,2,4,170,6,Not Addicted
+11,1,1,103,5,Addicted
+5,3,2,183,8,Not Addicted
+12,4,5,174,7,Addicted
+3,5,2,124,8,Not Addicted
+1,7,0,229,4,Not Addicted
+1,4,4,40,8,Not Addicted
+8,2,1,20,5,Not Addicted
+10,5,3,139,6,Addicted
+11,3,2,114,7,Addicted
+12,0,1,36,8,Addicted
+12,4,4,236,8,Addicted
+2,2,0,11,6,Not Addicted
+3,3,2,110,7,Not Addicted
+2,6,5,30,9,Not Addicted
+3,6,1,67,8,Not Addicted
+7,3,5,189,8,Addicted
+1,3,1,29,9,Not Addicted
+10,3,1,264,5,Addicted
+8,5,4,47,5,Addicted
+10,3,4,157,4,Addicted
+10,4,4,34,6,Addicted
+10,2,3,130,7,Addicted
+2,5,1,35,8,Not Addicted
+3,3,2,178,8,Not Addicted
+9,1,5,234,4,Addicted
+7,7,4,10,8,Addicted
+4,1,4,270,6,Not Addicted
+10,2,5,22,4,Addicted
+5,6,5,57,6,Addicted
+2,0,1,103,4,Not Addicted
+11,0,4,270,8,Addicted
+8,7,5,287,4,Addicted
+4,6,3,214,5,Addicted
+9,5,3,194,7,Addicted
+5,5,4,184,8,Addicted
+9,5,5,78,9,Addicted
+4,0,1,113,7,Not Addicted
+10,1,1,255,8,Addicted
+5,0,1,170,7,Not Addicted
+9,4,0,209,5,Addicted
+8,3,4,225,7,Addicted
+3,5,1,221,4,Not Addicted
+1,1,3,25,7,Not Addicted
+3,2,5,214,8,Not Addicted
+4,7,2,48,9,Not Addicted
+2,2,2,98,9,Not Addicted
+1,3,1,265,6,Not Addicted
+7,1,2,263,7,Not Addicted
+8,0,2,225,9,Not Addicted
+7,0,0,181,7,Not Addicted
+5,4,3,146,9,Not Addicted
+12,4,3,187,7,Addicted
+1,0,0,86,8,Not Addicted
+7,2,0,197,7,Not Addicted
+7,7,2,24,8,Addicted
+9,5,4,223,8,Addicted
+3,2,5,217,6,Not Addicted
+9,7,5,178,9,Addicted
+1,4,2,289,4,Not Addicted
+1,3,5,155,8,Not Addicted
+4,7,0,272,9,Addicted
+9,0,3,13,5,Not Addicted
+6,4,5,99,7,Addicted
+11,4,2,69,5,Addicted
+3,5,4,25,7,Not Addicted
+1,0,2,236,6,Not Addicted
+4,5,1,38,8,Not Addicted
+12,0,2,160,4,Addicted
+9,5,0,254,8,Addicted
+3,7,3,279,7,Addicted
+12,2,3,88,4,Addicted
+9,3,5,298,8,Addicted
+7,3,0,162,4,Addicted
+12,0,1,286,7,Addicted
+4,1,0,288,6,Not Addicted
+3,6,2,66,6,Not Addicted
+10,4,0,195,8,Addicted
+5,4,0,102,5,Not Addicted
+5,0,1,285,7,Not Addicted
+3,7,2,167,8,Addicted
+12,5,4,284,8,Addicted
+9,1,4,190,6,Addicted
+4,2,3,86,4,Not Addicted
+11,5,5,160,7,Addicted
+5,5,0,247,4,Addicted
+4,0,3,298,9,Not Addicted
+5,0,1,240,9,Not Addicted
+7,7,4,27,7,Addicted
+9,4,0,82,5,Addicted
+7,0,1,198,9,Not Addicted
+5,0,5,26,6,Not Addicted
+10,0,1,28,5,Not Addicted
+10,7,0,228,8,Addicted
+7,4,5,129,9,Addicted
+10,2,1,110,6,Addicted
+5,2,5,43,8,Not Addicted
+3,6,0,93,5,Not Addicted
+7,6,0,205,7,Addicted
+11,0,5,211,8,Addicted
+11,6,2,20,4,Addicted
+2,4,3,227,7,Not Addicted
+12,7,1,262,7,Addicted
+9,2,1,231,5,Addicted
+10,5,2,89,5,Addicted
+10,2,2,16,6,Addicted
+12,2,2,281,6,Addicted
+1,4,4,236,4,Not Addicted
+6,6,4,25,7,Addicted
+7,5,5,21,4,Addicted
+8,4,4,250,4,Addicted
+10,0,0,30,5,Not Addicted
+9,7,5,187,4,Addicted
+2,3,1,237,4,Not Addicted
+11,2,3,282,8,Addicted
+10,3,0,297,6,Addicted
+2,7,1,143,6,Not Addicted
+5,7,1,292,7,Addicted
+5,4,5,162,6,Addicted
+6,4,2,75,9,Not Addicted
+3,4,2,146,7,Not Addicted
+8,3,0,101,8,Not Addicted
+1,4,2,268,6,Not Addicted
+6,7,1,112,8,Addicted
+4,0,2,64,6,Not Addicted
+1,4,4,266,6,Not Addicted
+7,1,2,110,8,Not Addicted
+9,6,1,207,4,Addicted
+4,3,5,235,4,Addicted
+4,1,0,246,4,Not Addicted
+6,4,3,35,9,Not Addicted
+12,7,2,130,4,Addicted
+3,0,1,191,6,Not Addicted
+12,2,3,208,5,Addicted
+6,5,3,264,8,Addicted
+7,6,4,131,5,Addicted
+11,5,3,40,9,Addicted
+10,4,5,294,5,Addicted
+10,6,1,115,7,Addicted
+3,6,1,233,4,Addicted
+7,0,2,282,9,Not Addicted
+3,6,2,241,6,Addicted
+2,3,2,265,4,Not Addicted
+12,1,5,33,4,Addicted
+10,1,3,118,5,Addicted
+4,1,3,200,7,Not Addicted
+12,3,4,34,4,Addicted
+8,5,5,196,8,Addicted
+9,0,2,297,8,Addicted
+7,6,0,125,4,Addicted
+1,3,4,46,5,Not Addicted
+3,1,0,291,5,Not Addicted
+12,4,3,146,6,Addicted
+9,2,4,236,9,Addicted
+12,6,4,191,9,Addicted
+1,3,1,95,9,Not Addicted
+9,7,3,62,7,Addicted
+8,3,3,244,5,Addicted
+1,0,5,276,6,Not Addicted
+6,0,4,296,8,Not Addicted
+5,3,3,109,9,Not Addicted
+6,1,4,96,8,Not Addicted
+10,2,5,24,8,Addicted
+12,6,5,110,4,Addicted
+5,0,1,174,7,Not Addicted
+6,6,4,38,6,Addicted
+5,1,3,123,7,Not Addicted
+11,6,3,116,4,Addicted
+12,4,4,139,6,Addicted
+5,0,4,93,6,Not Addicted
+4,1,4,280,5,Not Addicted
+3,1,2,253,7,Not Addicted
+3,2,3,223,7,Not Addicted
+4,2,5,175,5,Addicted
+9,4,3,288,8,Addicted
+2,1,2,68,4,Not Addicted
+9,5,4,99,7,Addicted
+1,1,1,203,5,Not Addicted
+1,2,4,132,6,Not Addicted
+5,5,4,145,9,Addicted
+6,0,2,148,5,Not Addicted
+6,0,3,238,9,Not Addicted
+3,6,4,283,8,Addicted
+7,3,3,59,4,Addicted
+9,2,0,127,9,Not Addicted
+11,3,5,211,8,Addicted
+12,5,3,200,9,Addicted
+10,2,1,190,6,Addicted
+8,4,5,87,6,Addicted
+6,1,1,84,6,Not Addicted
+12,4,4,290,6,Addicted
+8,5,5,30,5,Addicted
+12,2,3,180,6,Addicted
+5,7,5,24,6,Addicted
+8,5,4,220,5,Addicted
+10,7,2,57,6,Addicted
+12,1,1,95,8,Addicted
+4,0,4,158,8,Not Addicted
+10,0,2,197,7,Addicted
+8,5,5,160,8,Addicted
+10,3,5,150,4,Addicted
+12,2,4,78,4,Addicted
+2,2,3,269,4,Not Addicted
+12,0,5,18,5,Addicted
+12,6,3,130,8,Addicted
+5,4,3,110,4,Addicted
+9,6,3,158,7,Addicted
+4,1,0,155,5,Not Addicted
+11,4,2,252,7,Addicted
+6,4,2,250,8,Addicted
+1,5,5,52,6,Not Addicted
+9,0,5,104,7,Addicted
+1,6,3,235,6,Not Addicted
+5,6,0,15,5,Not Addicted
+4,0,3,223,7,Not Addicted
+12,6,0,215,7,Addicted
+3,7,3,76,9,Not Addicted
+6,0,1,109,5,Not Addicted
+2,5,1,21,5,Not Addicted
+3,3,4,246,4,Addicted
+5,4,3,267,8,Addicted
+9,5,5,144,7,Addicted
+2,2,2,231,7,Not Addicted
+10,1,4,165,5,Addicted
+8,3,5,151,5,Addicted
+2,2,1,167,8,Not Addicted
+11,4,3,271,5,Addicted
+5,6,4,292,6,Addicted
+7,0,3,238,6,Not Addicted
+8,4,1,289,9,Addicted
+1,5,4,299,6,Not Addicted
+6,1,1,177,6,Not Addicted
+1,5,0,56,8,Not Addicted
+2,3,1,212,7,Not Addicted
+1,3,3,223,6,Not Addicted
+11,1,2,255,9,Addicted
+5,7,1,33,5,Addicted
+10,2,5,283,6,Addicted
+9,2,2,53,9,Not Addicted
+6,3,0,165,8,Not Addicted
+11,3,4,208,5,Addicted
+11,6,4,171,9,Addicted
+1,0,2,243,6,Not Addicted
+1,6,4,172,7,Not Addicted
+2,6,1,125,5,Not Addicted
+9,7,2,102,5,Addicted
+3,2,3,51,7,Not Addicted
+1,7,1,293,5,Addicted
+5,7,1,219,6,Addicted
+7,1,1,215,5,Not Addicted
+6,2,3,229,6,Addicted
+12,0,0,289,7,Addicted
+1,5,5,145,4,Addicted
+5,3,4,115,7,Not Addicted
+5,3,2,127,6,Not Addicted
+6,0,0,246,8,Not Addicted
+3,7,2,109,7,Addicted
+5,6,4,270,8,Addicted
+7,1,3,295,8,Addicted
+5,7,1,112,6,Addicted
+5,3,1,72,6,Not Addicted
+5,4,3,184,4,Addicted
+10,6,0,291,9,Addicted
+10,3,0,235,5,Addicted
+3,4,2,16,7,Not Addicted
+1,7,3,136,6,Not Addicted
+5,0,0,101,7,Not Addicted
+9,0,3,199,9,Not Addicted
+1,6,4,62,9,Not Addicted
+3,3,1,251,8,Not Addicted
+4,2,1,141,5,Not Addicted
+1,4,1,121,4,Not Addicted
+1,1,3,16,7,Not Addicted
+8,3,3,239,5,Addicted
+2,1,2,165,4,Not Addicted
+12,3,1,206,7,Addicted
+8,2,2,232,5,Addicted
+7,2,1,259,6,Addicted
+10,6,2,92,7,Addicted
+10,6,2,249,5,Addicted
+2,2,4,272,9,Not Addicted
+6,5,2,198,4,Addicted
+6,2,3,299,5,Addicted
+3,0,2,67,6,Not Addicted
+11,0,1,18,7,Not Addicted
+2,5,2,124,7,Not Addicted
+12,7,0,219,7,Addicted
+1,4,5,50,6,Not Addicted
+6,7,1,182,4,Addicted
+12,1,0,243,7,Addicted
+5,7,1,290,4,Addicted
+11,3,3,87,5,Addicted
+9,7,5,117,9,Addicted
+1,3,5,290,9,Not Addicted
+7,5,3,48,4,Addicted
+5,0,5,128,4,Not Addicted
+5,6,3,36,9,Addicted
+2,3,0,113,7,Not Addicted
+11,0,4,83,8,Addicted
+3,4,1,200,8,Not Addicted
+7,1,3,156,6,Not Addicted
+6,4,1,264,9,Not Addicted
+12,5,0,293,9,Addicted
+2,7,4,222,6,Addicted
+6,7,0,132,8,Addicted
+2,2,5,215,5,Not Addicted
+2,2,1,249,7,Not Addicted
+2,2,4,295,7,Not Addicted
+11,4,5,31,5,Addicted
+3,3,4,268,5,Addicted
+2,1,5,114,8,Not Addicted
+4,2,0,267,6,Not Addicted
+9,5,3,213,5,Addicted
+6,5,1,271,6,Addicted
+1,2,2,116,4,Not Addicted
+8,7,2,260,7,Addicted
+12,2,0,230,8,Addicted
+7,1,1,231,7,Not Addicted
+10,2,1,267,8,Addicted
+3,1,0,210,4,Not Addicted
+1,5,1,267,7,Not Addicted
+5,2,3,234,4,Addicted
+4,4,0,211,8,Not Addicted
+10,6,3,235,5,Addicted
+8,4,1,245,7,Addicted
+1,5,0,192,4,Not Addicted
+10,1,1,209,9,Addicted
+1,4,0,255,7,Not Addicted
+12,1,1,120,7,Addicted
+4,4,3,15,7,Not Addicted
+8,4,3,245,6,Addicted
+5,1,1,136,4,Not Addicted
+2,3,0,113,4,Not Addicted
+6,4,2,246,7,Addicted
+5,2,3,164,5,Not Addicted
+2,6,3,266,7,Addicted
+11,5,5,244,6,Addicted
+11,3,2,298,8,Addicted
+11,1,1,49,6,Addicted
+3,3,0,297,5,Not Addicted
+9,0,5,206,7,Addicted
+7,0,1,282,4,Not Addicted
+7,4,4,273,9,Addicted
+11,4,3,66,7,Addicted
+6,2,4,107,5,Addicted
+8,6,3,146,4,Addicted
+4,5,3,96,6,Addicted
+8,3,4,251,8,Addicted
+4,0,4,208,8,Not Addicted
+8,4,1,93,7,Addicted
+9,7,5,251,6,Addicted
+3,7,5,290,9,Addicted
+3,5,4,261,9,Addicted
+11,3,1,199,5,Addicted
+2,4,5,161,8,Not Addicted
+10,4,1,287,6,Addicted
+3,0,1,148,7,Not Addicted
+3,0,3,185,4,Not Addicted
+5,4,5,17,7,Addicted
+5,1,5,244,7,Not Addicted
+2,4,3,172,6,Not Addicted
+12,5,4,58,8,Addicted
+10,4,3,47,6,Addicted
+6,2,5,145,4,Addicted
+5,6,5,228,6,Addicted
+6,2,4,43,5,Not Addicted
+1,2,3,88,7,Not Addicted
+5,1,0,245,8,Not Addicted
+9,1,0,282,9,Not Addicted
+12,7,4,170,4,Addicted
+10,4,3,184,9,Addicted
+2,2,3,230,7,Not Addicted
+1,1,1,18,6,Not Addicted
+10,0,5,298,9,Addicted
+11,4,2,122,5,Addicted
+9,5,4,214,6,Addicted
+10,6,2,195,7,Addicted
+9,3,2,206,9,Addicted
+9,4,4,275,4,Addicted
+6,3,3,271,9,Addicted
+8,2,4,257,9,Addicted
+11,6,2,124,8,Addicted
+1,3,5,130,9,Not Addicted
+10,2,5,150,7,Addicted
+4,0,5,74,4,Not Addicted
+1,3,3,285,7,Not Addicted
+8,6,0,248,5,Addicted
+1,7,4,19,6,Not Addicted
+3,4,5,242,9,Not Addicted
+4,2,4,204,8,Not Addicted
+8,4,5,21,4,Addicted
+6,6,3,186,8,Addicted
+10,1,0,186,8,Not Addicted
+12,2,0,226,8,Addicted
+7,3,5,20,9,Addicted
+8,2,3,127,4,Addicted
+2,4,1,173,4,Not Addicted
+10,0,4,48,8,Addicted
+11,2,4,62,6,Addicted
+8,3,2,227,9,Addicted
+3,1,3,215,9,Not Addicted
+7,7,2,65,7,Addicted
+3,5,5,127,9,Not Addicted
+7,0,2,262,8,Not Addicted
+11,7,0,295,5,Addicted
+12,1,4,277,8,Addicted
+2,2,2,189,4,Not Addicted
+10,4,0,244,9,Addicted
+6,6,3,205,9,Addicted
+3,4,2,89,7,Not Addicted
+3,7,5,144,5,Addicted
+9,3,5,31,9,Addicted
+7,4,5,234,7,Addicted
+5,0,4,67,7,Not Addicted
+12,4,2,102,5,Addicted
+10,3,3,201,8,Addicted
+7,5,2,112,8,Addicted
+9,2,4,16,8,Addicted
+1,6,0,137,6,Not Addicted
+7,7,4,64,8,Addicted
+6,2,5,240,5,Addicted
+10,4,0,71,6,Addicted
+12,1,5,249,8,Addicted
+9,2,1,99,6,Addicted
+1,5,4,241,5,Not Addicted
+4,4,4,242,8,Addicted
+9,6,3,161,4,Addicted
+4,3,2,154,9,Not Addicted
+10,5,0,139,5,Addicted
+3,4,0,150,7,Not Addicted
+9,5,3,102,7,Addicted
+2,2,3,123,5,Not Addicted
+4,6,2,293,7,Addicted
+6,3,5,152,5,Addicted
+2,4,2,232,4,Not Addicted
+8,0,4,241,5,Addicted
+8,7,5,42,8,Addicted
+1,3,1,285,8,Not Addicted
+12,0,2,179,6,Addicted
+3,5,3,149,7,Not Addicted
+10,1,5,210,9,Addicted
+9,3,2,32,7,Addicted
+5,5,0,233,5,Addicted
+6,0,1,279,9,Not Addicted
+4,2,4,162,9,Not Addicted
+10,2,0,94,7,Addicted
+2,1,0,118,9,Not Addicted
+11,7,1,40,9,Addicted
+8,3,4,238,8,Addicted
+11,3,3,249,4,Addicted
+6,3,5,150,5,Addicted
+5,7,4,165,7,Addicted
+9,5,2,108,8,Addicted
+1,6,0,56,6,Not Addicted
+5,6,2,76,9,Not Addicted
+6,1,3,71,9,Not Addicted
+5,3,2,118,7,Not Addicted
+6,5,4,176,4,Addicted
+6,2,2,46,4,Not Addicted
+7,0,3,128,7,Not Addicted
+4,5,3,95,7,Not Addicted
+11,7,3,61,8,Addicted
+8,6,4,100,7,Addicted
+7,6,3,298,6,Addicted
+9,2,0,213,8,Addicted
+7,2,3,247,9,Addicted
+3,7,2,164,9,Not Addicted
+3,0,5,249,9,Not Addicted
+8,2,2,145,9,Not Addicted
+5,1,5,73,5,Not Addicted
+4,0,2,132,6,Not Addicted
+8,2,4,263,8,Addicted
+6,4,2,123,8,Not Addicted
+2,5,4,29,9,Not Addicted
+4,2,4,25,4,Not Addicted
+12,1,3,154,8,Addicted
+11,3,0,217,6,Addicted
+4,2,5,28,7,Not Addicted
+6,6,3,175,6,Addicted
+6,6,3,47,9,Addicted
+1,6,4,190,9,Not Addicted
+8,3,4,114,5,Addicted
+6,6,5,109,8,Addicted
+3,4,2,99,8,Not Addicted
+9,2,2,88,8,Addicted
+2,7,3,82,9,Not Addicted
+11,6,1,185,8,Addicted
+8,0,1,105,4,Not Addicted
+10,7,2,112,4,Addicted
+3,3,1,233,7,Not Addicted
+12,4,2,15,8,Addicted
+5,0,4,131,5,Not Addicted
+6,0,3,245,7,Not Addicted
+10,0,0,125,9,Not Addicted
+6,0,3,172,8,Not Addicted
+4,7,2,235,4,Addicted
+3,7,2,239,5,Addicted
+4,2,3,191,7,Not Addicted
+1,6,5,258,5,Addicted
+4,5,2,219,8,Not Addicted
+1,2,1,153,6,Not Addicted
+12,2,1,105,5,Addicted
+1,4,2,253,5,Not Addicted
+10,4,2,95,9,Addicted
+6,6,5,193,4,Addicted
+5,5,1,130,8,Not Addicted
+11,4,2,101,5,Addicted
+4,6,2,79,8,Not Addicted
+11,6,5,142,4,Addicted
+3,7,5,288,9,Addicted
+1,1,3,146,8,Not Addicted
+6,7,5,196,4,Addicted
+2,5,0,230,4,Not Addicted
+8,4,1,55,7,Addicted
+10,5,3,287,9,Addicted
+5,2,0,201,9,Not Addicted
+7,2,2,17,8,Not Addicted
+10,5,2,285,6,Addicted
+12,1,3,188,7,Addicted
+2,1,5,48,9,Not Addicted
+8,7,2,187,4,Addicted
+2,5,4,171,9,Not Addicted
+4,4,3,113,6,Not Addicted
+1,7,0,170,5,Not Addicted
+5,3,3,296,5,Addicted
+9,1,1,132,9,Not Addicted
+1,0,5,63,9,Not Addicted
+9,7,5,43,7,Addicted
+11,2,3,251,9,Addicted
+8,7,2,122,6,Addicted
+6,5,2,32,9,Not Addicted
+7,0,4,55,8,Not Addicted
+3,5,4,144,6,Addicted
+1,6,5,127,7,Not Addicted
+5,2,4,198,8,Not Addicted
+12,2,0,140,8,Addicted
+12,1,4,221,5,Addicted
+2,7,0,122,6,Not Addicted
+5,1,4,53,8,Not Addicted
+8,0,5,137,7,Addicted
+11,7,5,167,5,Addicted
+9,6,0,282,8,Addicted
+2,5,3,54,6,Not Addicted
+12,6,5,117,5,Addicted
+3,2,3,228,6,Not Addicted
+3,0,2,186,6,Not Addicted
+1,3,0,237,6,Not Addicted
+8,0,5,200,5,Addicted
+6,4,1,169,8,Not Addicted
+12,0,2,276,9,Addicted
+8,6,3,199,4,Addicted
+11,4,5,184,8,Addicted
+9,4,0,299,5,Addicted
+5,7,4,154,4,Addicted
+12,7,1,241,4,Addicted
+3,4,3,213,4,Addicted
+5,3,2,222,9,Not Addicted
+5,7,0,49,7,Not Addicted
+5,0,1,284,5,Not Addicted
+3,6,0,91,9,Not Addicted
+11,0,5,190,9,Addicted
+10,3,4,92,7,Addicted
+4,2,2,271,4,Not Addicted
+9,1,0,281,7,Addicted
+10,6,3,209,7,Addicted
+9,7,5,249,9,Addicted
+2,6,5,189,5,Addicted
+8,0,2,180,6,Not Addicted
+8,1,5,186,7,Addicted
+7,5,3,246,7,Addicted
+8,5,0,147,4,Addicted
+3,7,2,138,4,Addicted
+6,3,5,58,9,Not Addicted
+1,5,5,173,4,Addicted
+7,6,3,286,8,Addicted
+1,5,4,125,7,Not Addicted
+9,2,4,33,4,Addicted
+1,2,5,34,5,Not Addicted
+1,7,0,136,8,Not Addicted
+7,2,2,243,9,Not Addicted
+2,5,5,218,6,Addicted
+5,3,1,102,7,Not Addicted
+8,4,2,103,7,Addicted
+8,4,4,234,5,Addicted
+3,7,5,289,6,Addicted
+7,1,3,20,6,Not Addicted
+3,4,1,21,9,Not Addicted
+6,4,5,44,9,Addicted
+6,2,0,237,8,Not Addicted
+3,2,1,229,7,Not Addicted
+7,5,5,150,4,Addicted
+3,7,0,32,9,Not Addicted
+8,1,1,92,5,Not Addicted
+10,7,0,238,5,Addicted
+4,0,0,89,5,Not Addicted
+1,6,1,299,9,Not Addicted
+4,1,1,168,9,Not Addicted
+7,1,0,137,5,Not Addicted
+11,3,4,199,9,Addicted
+4,7,1,40,4,Addicted
+6,5,5,24,4,Addicted
+9,3,2,84,8,Addicted
+1,1,3,43,7,Not Addicted
+5,1,0,205,4,Not Addicted
+11,1,0,38,8,Not Addicted
+7,4,3,203,6,Addicted
+1,7,4,25,7,Not Addicted
+4,6,3,86,4,Addicted
+6,6,1,90,6,Addicted
+2,3,3,133,8,Not Addicted
+10,1,0,28,4,Addicted
+5,6,3,111,4,Addicted
+11,2,2,86,9,Addicted
+10,7,5,238,6,Addicted
+1,6,1,212,4,Not Addicted
+6,5,3,70,5,Addicted
+6,7,0,35,9,Not Addicted
+4,5,5,80,9,Addicted
+8,6,1,112,4,Addicted
+4,2,0,166,9,Not Addicted
+8,5,4,203,7,Addicted
+8,4,2,284,6,Addicted
+5,6,4,195,7,Addicted
+4,4,2,122,8,Not Addicted
+12,6,3,174,7,Addicted
+2,0,1,70,5,Not Addicted
+11,0,3,101,9,Addicted
+3,0,2,295,9,Not Addicted
+3,5,2,162,5,Not Addicted
+4,4,2,234,9,Not Addicted
+4,4,5,136,7,Addicted
+10,4,0,202,8,Addicted
+11,2,1,124,4,Addicted
+11,4,3,271,5,Addicted
+5,2,3,27,7,Not Addicted
+4,0,4,19,7,Not Addicted
+11,0,2,101,7,Addicted
+10,5,2,148,4,Addicted
+8,6,2,61,6,Addicted
+6,0,3,204,9,Not Addicted
+6,6,4,215,9,Addicted
+8,6,0,296,8,Addicted
+7,7,5,102,6,Addicted
+10,5,1,154,9,Addicted
+11,1,0,95,8,Not Addicted
+12,1,3,162,8,Addicted
+10,3,5,11,7,Addicted
+8,7,5,269,5,Addicted
+2,5,5,173,7,Not Addicted
+9,3,2,15,4,Addicted
+1,3,1,158,9,Not Addicted
+8,7,3,214,8,Addicted
+12,1,3,127,5,Addicted
+11,5,5,98,9,Addicted
+12,1,3,163,8,Addicted
+12,3,1,176,8,Addicted
+4,5,1,170,7,Not Addicted
+4,3,4,279,5,Addicted
+5,4,4,65,5,Addicted
+8,7,0,237,9,Addicted
+5,6,1,158,8,Addicted
+8,5,1,55,5,Addicted
+10,5,1,153,5,Addicted
+1,6,4,247,9,Not Addicted
+12,3,5,281,7,Addicted
+10,4,5,129,6,Addicted
+9,2,3,229,4,Addicted
+6,6,5,17,6,Addicted
+3,7,2,284,5,Addicted
+8,1,4,75,8,Not Addicted
+9,3,1,88,4,Addicted
+6,6,5,95,4,Addicted
+11,6,4,133,8,Addicted
+7,5,5,211,4,Addicted
+1,1,0,159,8,Not Addicted
+5,1,1,55,4,Not Addicted
+5,7,0,122,9,Not Addicted
+10,1,1,100,9,Not Addicted
+4,6,4,150,6,Addicted
+6,2,3,298,4,Addicted
+7,0,5,227,7,Addicted
+9,3,5,86,8,Addicted
+1,0,2,161,4,Not Addicted
+6,6,0,248,9,Addicted
+7,0,5,124,9,Not Addicted
+3,6,4,103,8,Addicted
+8,0,3,57,7,Not Addicted
+5,1,4,200,4,Addicted
+9,4,0,21,4,Addicted
+5,1,2,165,7,Not Addicted
+9,1,5,181,7,Addicted
+10,7,4,186,7,Addicted
+4,5,1,66,9,Not Addicted
+9,5,3,212,8,Addicted
+5,0,4,194,7,Not Addicted
+10,6,3,130,8,Addicted
+9,7,5,235,6,Addicted
+3,1,1,211,4,Not Addicted
+4,7,2,225,4,Addicted
+9,0,2,52,5,Not Addicted
+10,5,1,32,6,Addicted
+11,4,3,164,7,Addicted
+6,3,5,195,7,Addicted
+2,0,4,258,9,Not Addicted
+7,7,1,246,6,Addicted
+2,4,0,143,7,Not Addicted
+11,3,3,31,5,Addicted
+2,2,2,97,8,Not Addicted
+11,0,1,162,4,Addicted
+1,0,2,134,6,Not Addicted
+11,2,3,88,4,Addicted
+11,2,2,60,8,Addicted
+12,0,1,225,6,Addicted
+11,2,3,185,8,Addicted
+3,1,0,262,7,Not Addicted
+6,3,1,255,7,Not Addicted
+8,3,4,236,7,Addicted
+9,3,5,115,8,Addicted
+7,1,1,202,8,Not Addicted
+4,6,3,45,8,Not Addicted
+6,2,5,213,4,Addicted
+5,4,1,276,8,Not Addicted
+8,2,0,277,7,Addicted
+1,0,0,179,5,Not Addicted
+1,5,4,48,8,Not Addicted
+11,7,2,148,5,Addicted
+6,7,5,61,7,Addicted
+10,3,3,296,8,Addicted
+12,2,3,298,4,Addicted
+2,4,2,150,4,Not Addicted
+5,0,0,155,5,Not Addicted
+1,1,0,193,9,Not Addicted
+7,6,1,161,4,Addicted
+1,1,4,210,4,Not Addicted
+4,4,5,137,4,Addicted
+9,0,4,296,7,Addicted
+1,3,4,262,4,Not Addicted
+4,2,1,275,6,Not Addicted
+6,0,4,197,8,Not Addicted
+6,7,2,239,4,Addicted
+12,6,1,280,9,Addicted
+8,1,2,268,9,Not Addicted
+1,6,1,207,4,Not Addicted
+7,6,4,65,4,Addicted
+1,4,2,212,6,Not Addicted
+7,4,2,280,4,Addicted
+3,2,2,118,4,Not Addicted
+11,4,1,125,8,Addicted
+8,4,3,101,9,Addicted
+3,0,4,147,6,Not Addicted
+1,7,2,66,9,Not Addicted
+8,3,5,59,6,Addicted
+3,2,3,80,9,Not Addicted
+2,0,5,91,4,Not Addicted
+1,3,4,114,9,Not Addicted
+3,6,4,97,9,Not Addicted
+2,0,2,11,6,Not Addicted
+2,5,2,93,5,Not Addicted
+6,0,1,52,6,Not Addicted
+12,4,3,163,6,Addicted
+1,3,3,103,6,Not Addicted
+2,2,2,142,7,Not Addicted
+6,2,4,74,7,Not Addicted
+3,3,2,299,7,Not Addicted
+4,4,4,266,6,Addicted
+1,1,4,222,5,Not Addicted
+8,0,2,157,6,Not Addicted
+7,4,0,70,4,Addicted
+7,5,3,158,5,Addicted
+3,7,5,97,7,Addicted
+10,6,4,287,9,Addicted
+10,3,4,91,9,Addicted
+3,7,0,138,8,Not Addicted
+2,0,5,295,5,Not Addicted
+12,2,1,289,7,Addicted
+1,6,0,279,5,Not Addicted
+7,7,5,212,5,Addicted
+7,1,0,33,9,Not Addicted
+12,7,4,217,6,Addicted
+2,5,3,289,4,Addicted
+7,2,0,214,8,Not Addicted
+8,3,1,161,7,Addicted
+1,0,2,35,5,Not Addicted
+9,3,5,203,8,Addicted
+7,6,0,247,5,Addicted
+3,0,0,84,9,Not Addicted
+8,4,1,172,4,Addicted
+7,1,3,38,9,Not Addicted
+11,4,0,174,8,Addicted
+8,4,0,195,7,Addicted
+6,3,3,63,5,Addicted
+9,6,1,51,4,Addicted
+5,1,5,294,9,Not Addicted
+3,7,5,147,8,Addicted
+3,0,0,196,9,Not Addicted
+1,0,3,213,5,Not Addicted
+12,5,0,51,5,Addicted
+8,2,2,297,7,Addicted
+2,5,5,35,4,Addicted
+3,7,4,65,6,Addicted
+8,5,2,262,9,Addicted
+8,0,0,131,5,Not Addicted
+11,3,1,115,8,Addicted
+4,4,5,139,9,Not Addicted
+4,6,4,167,7,Addicted
+5,4,2,240,7,Addicted
+6,4,5,100,5,Addicted
+5,1,3,31,5,Not Addicted
+7,0,1,299,5,Not Addicted
+2,7,2,119,6,Not Addicted
+7,7,3,58,5,Addicted
+10,6,0,138,9,Addicted
+7,3,3,82,9,Not Addicted
+1,1,2,62,4,Not Addicted
+7,2,2,177,8,Not Addicted
+5,3,0,54,5,Not Addicted
+3,5,3,114,9,Not Addicted
+3,3,3,159,9,Not Addicted
+4,3,0,155,9,Not Addicted
+12,4,3,213,6,Addicted
+2,3,5,176,8,Not Addicted
+2,7,0,210,7,Not Addicted
+1,5,1,143,9,Not Addicted
+5,5,2,220,5,Addicted
+4,0,1,57,9,Not Addicted
+11,3,5,135,8,Addicted
+10,4,5,248,7,Addicted
+2,3,4,16,6,Not Addicted
+3,2,4,281,4,Not Addicted
+7,2,4,46,5,Addicted
+7,4,0,220,4,Addicted
+12,0,3,174,6,Addicted
+4,0,5,134,8,Not Addicted
+5,5,1,201,8,Not Addicted
+5,5,1,227,6,Addicted
+6,1,1,223,9,Not Addicted
+9,4,1,71,6,Addicted
+2,3,4,170,5,Not Addicted
+5,6,1,75,7,Addicted
+12,4,3,295,4,Addicted
+3,1,4,248,4,Not Addicted
+4,5,1,29,8,Not Addicted
+10,4,0,197,9,Addicted
+6,4,2,91,8,Not Addicted
+12,5,2,211,5,Addicted
+8,7,2,141,6,Addicted
+1,1,4,46,4,Not Addicted
+10,5,1,141,5,Addicted
+8,0,5,86,8,Not Addicted
+11,3,5,98,8,Addicted
+7,5,5,262,4,Addicted
+1,1,4,203,8,Not Addicted
+2,2,3,185,9,Not Addicted
+3,0,0,42,8,Not Addicted
+1,2,0,67,7,Not Addicted
+9,6,2,210,6,Addicted
+8,5,2,37,8,Addicted
+2,0,5,44,7,Not Addicted
+9,3,5,134,5,Addicted
+7,5,2,51,8,Addicted
+9,3,1,94,9,Addicted
+6,7,3,197,5,Addicted
+6,4,3,120,8,Addicted
+11,2,3,280,4,Addicted
+4,0,3,114,7,Not Addicted
+10,3,2,50,7,Addicted
+10,1,0,224,4,Addicted
+2,3,2,80,6,Not Addicted
+7,1,3,65,9,Not Addicted
+5,5,2,245,7,Addicted
+11,0,3,290,5,Addicted
+6,3,4,114,9,Not Addicted
+2,6,5,171,7,Addicted
+5,3,0,200,6,Not Addicted
+10,7,4,18,5,Addicted
+4,6,1,69,9,Not Addicted
+9,0,2,234,5,Addicted
+6,7,1,197,4,Addicted
+2,3,2,79,8,Not Addicted
+1,1,5,296,4,Not Addicted
+5,3,4,178,9,Not Addicted
+9,2,5,71,8,Addicted
+6,5,3,23,4,Addicted
+10,4,5,173,8,Addicted
+12,1,5,254,7,Addicted
+7,2,3,17,5,Not Addicted
+5,6,2,163,8,Addicted
+10,5,3,45,7,Addicted
+6,0,4,57,6,Not Addicted
+5,1,5,94,4,Not Addicted
+11,4,3,37,6,Addicted
+9,5,5,205,9,Addicted
+6,6,4,217,7,Addicted
+11,7,1,213,6,Addicted
+8,7,4,113,6,Addicted
+2,4,0,239,7,Not Addicted
+12,0,0,110,5,Addicted
+9,0,0,38,8,Not Addicted
+5,6,5,136,9,Addicted
+7,1,2,19,9,Not Addicted
+10,6,2,115,4,Addicted
+1,3,2,176,8,Not Addicted
+10,0,5,266,4,Addicted
+5,5,4,286,9,Addicted
+12,3,2,74,8,Addicted
+10,7,1,280,6,Addicted
+2,7,0,197,5,Not Addicted
+12,2,4,147,6,Addicted
+6,4,0,114,5,Not Addicted
+11,3,2,43,7,Addicted
+1,4,4,119,4,Not Addicted
+3,6,3,42,4,Addicted
+5,3,1,240,7,Not Addicted
+4,6,2,275,8,Addicted
+3,2,2,191,7,Not Addicted
+10,0,1,74,9,Not Addicted
+5,7,1,10,7,Addicted
+11,2,3,142,5,Addicted
+8,7,2,89,9,Addicted
+11,0,5,280,7,Addicted
+4,6,2,250,4,Addicted
+1,0,0,37,6,Not Addicted
+11,7,4,232,5,Addicted
+7,7,4,32,5,Addicted
+8,4,0,118,8,Addicted
+3,5,4,116,6,Addicted
+6,2,1,154,5,Not Addicted
+2,3,4,148,7,Not Addicted
+7,7,4,293,5,Addicted
+8,2,0,108,5,Not Addicted
+6,4,3,132,5,Addicted
+6,0,4,296,8,Not Addicted
+5,4,5,90,5,Addicted
+8,1,4,19,5,Addicted
+1,1,3,17,8,Not Addicted
+10,3,0,214,9,Addicted
+4,4,3,206,6,Addicted
+4,6,0,207,9,Not Addicted
+3,3,1,39,4,Not Addicted
+3,6,0,29,8,Not Addicted
+4,3,1,57,8,Not Addicted
+11,1,1,139,5,Addicted
+1,3,0,141,5,Not Addicted
+11,1,5,63,4,Addicted
+11,7,2,290,5,Addicted
+2,0,0,274,7,Not Addicted
+9,6,4,224,5,Addicted
+10,4,5,299,5,Addicted
+2,7,5,52,7,Addicted
+5,7,4,83,4,Addicted
+9,3,2,287,7,Addicted
+9,1,5,251,8,Addicted
+8,2,1,139,7,Not Addicted
+1,6,2,203,6,Not Addicted
+1,7,4,41,8,Not Addicted
+9,3,2,115,5,Addicted
+11,5,0,213,8,Addicted
+8,0,2,10,4,Not Addicted
+10,0,1,254,4,Addicted
+9,2,0,81,7,Not Addicted
+7,1,3,24,8,Not Addicted
+3,3,4,62,5,Not Addicted
+3,6,4,17,4,Addicted
+2,1,2,55,9,Not Addicted
+5,0,5,123,5,Not Addicted
+12,1,0,156,9,Addicted
+12,0,3,175,6,Addicted
+3,1,0,148,9,Not Addicted
+6,2,4,126,4,Addicted
+2,4,0,285,7,Not Addicted
+12,2,3,286,6,Addicted
+3,2,5,187,8,Not Addicted
+5,4,2,163,5,Addicted
+12,4,1,210,4,Addicted
+11,7,0,124,6,Addicted
+11,7,1,168,6,Addicted
+1,3,4,51,4,Not Addicted
+1,6,2,256,8,Not Addicted
+10,6,2,77,8,Addicted
+9,3,0,205,7,Addicted
+7,2,5,99,9,Addicted
+1,2,2,120,8,Not Addicted
+12,0,0,154,7,Addicted
+8,0,0,284,9,Not Addicted
+3,6,1,188,6,Not Addicted
+8,3,2,250,4,Addicted
+5,5,0,162,8,Not Addicted
+1,7,1,113,7,Not Addicted
+7,5,3,84,6,Addicted
+5,3,1,137,8,Not Addicted
+6,0,1,208,5,Not Addicted
+6,6,0,163,6,Addicted
+8,6,4,65,8,Addicted
+9,0,4,287,6,Addicted
+2,5,5,28,4,Addicted
+9,1,4,168,4,Addicted
+12,1,1,35,4,Addicted
+11,0,5,178,9,Addicted
+10,1,0,32,5,Not Addicted
+9,4,2,56,4,Addicted
+10,3,1,22,5,Addicted
+10,3,1,226,4,Addicted
+7,0,5,203,9,Not Addicted
+1,2,0,153,6,Not Addicted
+7,7,3,82,8,Addicted
+10,5,1,165,8,Addicted
+5,0,3,86,4,Not Addicted
+6,1,3,178,8,Not Addicted
+10,5,4,296,4,Addicted
+7,2,0,94,4,Not Addicted
+5,1,3,191,7,Not Addicted
+7,6,0,121,7,Addicted
+9,7,4,239,7,Addicted
+3,4,0,105,5,Not Addicted
+8,1,1,177,7,Not Addicted
+2,4,3,165,4,Not Addicted
+11,5,0,114,9,Addicted
+7,4,2,202,9,Addicted
+2,5,0,141,6,Not Addicted
+4,5,3,147,7,Addicted
+7,5,4,279,9,Addicted
+3,5,4,47,7,Not Addicted
+2,5,3,54,6,Not Addicted
+11,1,1,172,9,Addicted
+10,5,1,262,4,Addicted
+7,1,4,178,5,Addicted
+1,5,4,294,7,Not Addicted
+8,4,3,283,9,Addicted
+3,6,1,29,9,Not Addicted
+12,5,4,248,6,Addicted
+12,2,1,279,4,Addicted
+2,5,4,40,8,Not Addicted
+3,5,0,113,9,Not Addicted
+5,4,2,179,5,Addicted
+11,7,5,195,6,Addicted
+8,3,0,137,9,Not Addicted
+10,4,5,219,9,Addicted
+7,2,4,290,6,Addicted
+7,3,2,262,6,Addicted
+12,0,2,28,7,Addicted
+7,0,4,209,9,Not Addicted
+8,7,4,229,8,Addicted
+1,2,1,145,5,Not Addicted
+4,4,4,232,4,Addicted
+6,1,3,12,4,Not Addicted
+9,2,4,245,8,Addicted
+2,6,3,237,6,Addicted
+1,3,4,151,6,Not Addicted
+10,3,1,18,6,Addicted
+12,5,3,199,9,Addicted
+2,0,0,174,6,Not Addicted
+7,7,3,148,6,Addicted
+3,3,1,285,9,Not Addicted
+10,2,5,62,9,Addicted
+2,3,3,184,8,Not Addicted
+11,7,4,119,7,Addicted
+7,7,4,212,9,Addicted
+2,7,5,145,5,Addicted
+3,2,1,13,6,Not Addicted
+11,1,2,164,7,Addicted
+7,5,4,181,4,Addicted
+4,0,0,56,8,Not Addicted
+1,3,1,103,7,Not Addicted
+5,2,3,57,9,Not Addicted
+12,4,3,249,6,Addicted
+9,0,0,222,6,Not Addicted
+8,1,4,148,6,Addicted
+12,2,1,214,7,Addicted
+9,6,0,82,6,Addicted
+10,6,4,13,9,Addicted
+9,5,1,85,7,Addicted
+7,5,3,86,6,Addicted
+4,1,1,265,4,Not Addicted
+5,1,5,111,4,Not Addicted
+1,5,2,115,5,Not Addicted
+1,3,1,48,6,Not Addicted
+3,3,2,284,6,Not Addicted
+8,2,1,97,7,Not Addicted
+2,4,2,220,7,Not Addicted
+4,2,5,86,6,Not Addicted
+2,4,3,86,5,Not Addicted
+5,1,4,37,6,Not Addicted
+9,0,2,254,9,Not Addicted
+1,2,5,75,7,Not Addicted
+5,2,2,275,6,Not Addicted
+9,4,3,214,7,Addicted
+1,7,2,67,6,Not Addicted
+9,1,5,210,8,Addicted
+8,1,5,234,7,Addicted
+4,6,0,151,5,Addicted
+12,7,3,93,8,Addicted
+11,4,0,152,9,Addicted
+10,1,3,42,6,Addicted
+5,7,2,161,9,Addicted
+5,5,5,167,7,Addicted
+11,7,0,150,8,Addicted
+12,3,2,260,9,Addicted
+6,6,5,121,5,Addicted
+7,5,3,153,7,Addicted
+8,0,5,218,8,Addicted
+8,2,2,233,9,Addicted
+11,6,0,52,8,Addicted
+2,0,0,273,8,Not Addicted
+9,2,5,253,9,Addicted
+7,3,2,12,4,Addicted
+4,7,1,134,6,Addicted
+4,1,3,277,7,Not Addicted
+11,5,3,93,7,Addicted
+8,4,2,25,7,Addicted
+4,5,1,68,8,Not Addicted
+6,3,0,186,9,Not Addicted
+5,0,4,72,6,Not Addicted
+3,4,4,58,5,Not Addicted
+10,1,2,255,7,Addicted
+11,3,1,298,9,Addicted
+2,4,1,295,6,Not Addicted
+9,3,3,24,6,Addicted
+10,7,0,264,4,Addicted
+9,3,5,101,9,Addicted
+1,1,1,288,7,Not Addicted
+10,6,5,215,8,Addicted
+3,2,4,103,6,Not Addicted
+8,4,5,234,6,Addicted
+6,7,0,208,5,Addicted
+5,1,0,280,4,Not Addicted
+5,3,5,243,6,Addicted
+6,7,2,55,6,Addicted
+7,1,1,73,8,Not Addicted
+1,6,2,239,8,Not Addicted
+9,7,5,258,5,Addicted
+3,7,1,255,9,Not Addicted
+4,2,3,84,5,Not Addicted
+10,5,2,166,5,Addicted
+1,4,2,232,8,Not Addicted
+11,2,5,199,9,Addicted
+10,0,4,61,8,Addicted
+3,4,5,97,4,Addicted
+2,2,2,75,7,Not Addicted
+2,3,1,159,7,Not Addicted
+1,4,4,29,4,Not Addicted
+8,4,5,42,7,Addicted
+3,1,5,290,9,Not Addicted
+3,3,2,55,8,Not Addicted
+6,0,2,82,7,Not Addicted
+8,5,3,142,9,Addicted
+9,7,5,64,8,Addicted
+9,6,2,70,9,Addicted
+4,2,0,17,4,Not Addicted
+5,1,4,281,5,Addicted
+2,2,0,255,4,Not Addicted
+11,0,4,185,7,Addicted
+9,7,5,125,8,Addicted
+8,0,3,280,9,Not Addicted
+3,4,2,202,7,Not Addicted
+11,6,2,159,7,Addicted
+12,0,2,140,5,Addicted
+9,2,5,111,7,Addicted
+3,3,4,279,5,Addicted
+9,3,2,219,8,Addicted
+2,4,0,76,8,Not Addicted
+12,5,2,19,9,Addicted
+10,2,5,58,5,Addicted
+9,2,3,120,4,Addicted
+8,0,0,228,8,Not Addicted
+9,6,2,66,9,Addicted
+5,2,2,292,4,Addicted
+11,1,1,122,8,Addicted
+11,5,4,142,8,Addicted
+2,0,0,80,9,Not Addicted
+8,1,1,92,9,Not Addicted
+12,4,3,66,6,Addicted
+6,3,4,280,7,Addicted
+8,4,0,120,7,Addicted
+11,3,2,85,4,Addicted
+5,4,0,167,7,Not Addicted
+10,2,2,29,4,Addicted
+2,1,4,140,8,Not Addicted
+6,3,2,131,6,Not Addicted
+5,0,3,50,6,Not Addicted
+12,1,5,176,8,Addicted
+12,0,2,139,9,Addicted
+5,1,3,32,5,Not Addicted
+1,1,5,288,5,Not Addicted
+2,4,4,260,7,Not Addicted
+8,3,4,18,9,Addicted
+3,3,0,22,4,Not Addicted
+10,6,3,61,6,Addicted
+3,1,3,218,7,Not Addicted
+8,2,1,47,8,Not Addicted
+8,2,1,109,9,Not Addicted
+2,0,5,202,6,Not Addicted
+8,0,5,200,4,Addicted
+11,4,1,60,4,Addicted
+1,1,5,150,5,Not Addicted
+6,0,2,177,7,Not Addicted
+8,0,1,118,8,Not Addicted
+3,5,3,216,6,Addicted
+8,1,2,119,4,Addicted
+12,7,5,205,6,Addicted
+1,4,4,161,8,Not Addicted
+11,0,0,252,6,Addicted
+11,4,1,137,7,Addicted
+9,3,4,114,5,Addicted
+11,4,5,19,6,Addicted
+9,7,3,157,9,Addicted
+5,2,0,149,5,Not Addicted
+10,7,4,199,8,Addicted
+4,2,0,103,5,Not Addicted
+11,4,1,238,6,Addicted
+6,2,5,72,6,Addicted
+12,3,3,34,9,Addicted
+7,1,5,277,4,Addicted
+5,2,0,290,9,Not Addicted
+11,2,4,20,6,Addicted
+10,4,1,210,5,Addicted
+9,3,1,135,9,Addicted
+3,6,5,199,9,Addicted
+7,6,4,98,4,Addicted
+10,6,4,125,6,Addicted
+10,6,0,186,6,Addicted
+11,1,5,23,8,Addicted
+5,7,5,266,4,Addicted
+7,4,2,218,8,Addicted
+2,4,5,290,8,Not Addicted
+4,5,1,114,8,Not Addicted
+2,3,0,156,7,Not Addicted
+12,6,4,288,8,Addicted
+7,1,5,18,9,Not Addicted
+2,3,0,127,5,Not Addicted
+11,6,5,103,9,Addicted
+1,1,4,153,9,Not Addicted
+9,3,3,298,6,Addicted
+1,4,4,23,7,Not Addicted
+8,4,4,266,8,Addicted
+2,7,4,195,6,Addicted
+12,0,5,216,4,Addicted
+8,7,2,181,4,Addicted
+3,2,4,279,6,Not Addicted
+6,7,1,230,5,Addicted
+3,6,1,161,6,Not Addicted
+7,5,0,120,6,Addicted
+10,3,2,192,7,Addicted
+9,5,0,81,4,Addicted
+2,0,1,292,4,Not Addicted
+12,2,1,83,8,Addicted
+12,3,3,224,9,Addicted
+5,1,4,32,6,Not Addicted
+6,6,1,77,6,Addicted
+4,2,5,102,5,Not Addicted
+4,4,5,72,4,Addicted
+4,0,0,233,5,Not Addicted
+2,2,0,234,7,Not Addicted
+4,6,4,112,8,Addicted
+11,7,4,224,5,Addicted
+1,2,3,201,4,Not Addicted
+12,7,2,169,7,Addicted
+6,6,0,216,6,Addicted
+1,4,4,278,7,Not Addicted
+10,3,0,203,9,Addicted
+6,1,4,161,5,Addicted
+1,4,1,246,4,Not Addicted
+6,7,0,97,5,Addicted
+10,7,1,20,6,Addicted
+8,1,0,196,6,Not Addicted
+11,3,2,223,4,Addicted
+2,2,3,24,9,Not Addicted
+2,1,5,275,8,Not Addicted
+12,0,5,82,7,Addicted
+4,0,5,61,7,Not Addicted
+11,6,1,137,6,Addicted
+3,4,4,37,5,Not Addicted
+4,7,5,74,5,Addicted
+12,3,2,26,9,Addicted
+7,6,5,147,8,Addicted
+11,4,0,238,5,Addicted
+1,4,1,263,7,Not Addicted
+6,6,0,219,5,Addicted
+3,5,0,240,8,Not Addicted
+11,4,0,250,7,Addicted
+10,5,3,79,5,Addicted
+7,0,3,113,7,Not Addicted
+10,0,4,213,6,Addicted
+2,4,1,62,6,Not Addicted
+2,0,2,63,9,Not Addicted
+4,3,2,285,6,Not Addicted
+1,5,2,40,5,Not Addicted
+3,5,0,144,8,Not Addicted
+9,4,3,67,7,Addicted
+7,0,1,114,4,Not Addicted
+7,1,0,275,6,Not Addicted
+11,7,3,19,6,Addicted
+4,6,3,262,4,Addicted
+2,6,5,165,4,Addicted
+4,5,5,167,5,Addicted
+6,4,1,46,7,Not Addicted
+11,4,1,128,6,Addicted
+11,3,1,76,8,Addicted
+3,2,0,251,5,Not Addicted
+1,7,4,222,5,Addicted
+12,2,1,110,8,Addicted
+8,5,5,65,8,Addicted
+12,6,4,248,9,Addicted
+5,3,0,240,8,Not Addicted
+5,3,4,101,4,Addicted
+11,3,2,288,6,Addicted
+4,5,4,118,9,Not Addicted
+6,2,1,177,4,Not Addicted
+3,6,0,227,9,Not Addicted
+9,3,1,231,6,Addicted
+5,6,5,170,9,Addicted
+3,0,2,25,4,Not Addicted
+11,4,5,287,7,Addicted
+1,4,1,66,6,Not Addicted
+10,6,1,71,5,Addicted
+12,1,1,251,6,Addicted
+6,1,3,99,6,Not Addicted
+2,5,2,81,6,Not Addicted
+3,5,1,39,7,Not Addicted
+1,4,1,297,4,Not Addicted
+9,0,5,95,5,Addicted
+8,7,5,243,4,Addicted
+12,2,1,244,9,Addicted
+2,2,0,274,9,Not Addicted
+12,5,3,296,9,Addicted
+11,0,5,278,4,Addicted
+8,5,0,195,8,Addicted
+12,7,3,140,7,Addicted
+9,2,1,286,8,Addicted
+1,6,2,189,9,Not Addicted
+5,5,4,299,7,Addicted
+8,3,4,172,4,Addicted
+11,6,1,280,9,Addicted
+2,7,5,105,4,Addicted
+4,7,0,271,7,Addicted
+7,5,2,297,4,Addicted
+3,4,3,92,4,Not Addicted
+12,5,1,234,5,Addicted
+5,4,2,232,8,Not Addicted
+8,7,2,127,8,Addicted
+12,0,5,201,8,Addicted
+10,7,3,88,6,Addicted
+3,2,2,87,5,Not Addicted
+4,6,5,156,9,Addicted
+9,6,0,116,9,Addicted
+7,1,5,280,9,Addicted
+1,1,0,253,8,Not Addicted
+12,7,0,82,8,Addicted
+4,2,2,35,5,Not Addicted
+4,1,5,219,4,Not Addicted
+9,6,0,101,8,Addicted
+6,5,3,134,9,Addicted
+9,0,2,82,4,Addicted
+12,0,5,132,8,Addicted
+6,2,5,193,7,Addicted
+6,7,4,196,6,Addicted
+5,1,5,207,8,Not Addicted
+5,5,2,87,7,Not Addicted
+2,0,3,195,5,Not Addicted
+8,0,5,262,7,Addicted
+8,3,4,22,5,Addicted
+11,7,2,85,8,Addicted
+1,3,0,60,5,Not Addicted
+8,6,1,284,7,Addicted
+5,0,1,158,6,Not Addicted
+2,2,0,228,4,Not Addicted
+2,4,5,131,4,Addicted
+6,4,1,220,6,Addicted
+11,5,1,289,9,Addicted
+9,0,0,35,4,Not Addicted
+1,0,5,182,8,Not Addicted
+12,6,5,165,9,Addicted
+6,0,0,247,8,Not Addicted
+9,2,5,91,7,Addicted
+8,3,5,282,7,Addicted
+11,0,2,77,9,Not Addicted
+6,0,2,53,9,Not Addicted
+3,6,0,70,9,Not Addicted
+8,7,3,132,9,Addicted
+9,1,1,205,5,Addicted
+1,7,2,120,9,Not Addicted
+12,6,1,267,9,Addicted
+9,7,4,98,7,Addicted
+6,6,0,207,8,Addicted
+6,2,3,291,7,Addicted
+12,5,4,209,4,Addicted
+4,0,4,108,5,Not Addicted
+1,6,5,36,5,Not Addicted
+10,6,4,98,8,Addicted
+8,1,0,155,9,Not Addicted
+2,6,2,191,7,Not Addicted
+12,4,0,266,4,Addicted
+1,5,2,198,7,Not Addicted
+2,0,4,249,9,Not Addicted
+1,0,4,205,9,Not Addicted
+1,1,3,174,6,Not Addicted
+9,2,2,280,7,Addicted
+1,0,4,17,8,Not Addicted
+4,4,5,47,7,Not Addicted
+10,0,1,123,5,Addicted
+6,4,3,65,4,Addicted
+7,5,0,147,8,Addicted
+2,5,3,111,6,Not Addicted
+6,3,1,186,4,Addicted
+7,3,2,178,4,Addicted
+10,4,0,295,5,Addicted
+10,2,0,270,5,Addicted
+2,0,2,232,5,Not Addicted
+2,6,3,208,8,Not Addicted
+10,0,4,220,7,Addicted
+7,3,3,296,4,Addicted
+12,7,1,189,7,Addicted
+1,6,5,259,7,Addicted
+8,4,4,240,5,Addicted
+11,6,3,32,7,Addicted
+3,7,5,57,4,Addicted
+11,0,5,118,4,Addicted
+6,0,2,15,9,Not Addicted
+9,2,1,47,6,Addicted
+6,1,1,178,8,Not Addicted
+9,6,1,292,7,Addicted
+7,3,4,212,8,Addicted
+9,7,0,282,8,Addicted
+2,7,4,253,8,Addicted
+12,7,3,56,9,Addicted
+8,3,5,258,8,Addicted
+8,1,5,88,9,Addicted
+2,0,0,119,4,Not Addicted
+12,2,3,22,7,Addicted
+4,2,0,99,9,Not Addicted
+11,3,5,289,6,Addicted
+7,2,4,230,8,Addicted
+11,7,1,82,6,Addicted
+4,5,5,243,4,Addicted
+4,1,2,269,4,Not Addicted
+6,0,1,122,5,Not Addicted
+10,5,5,55,8,Addicted
+6,1,4,283,5,Addicted
+10,4,0,52,6,Addicted
+3,6,1,217,7,Not Addicted
+9,3,4,112,5,Addicted
+12,7,3,133,4,Addicted
+10,2,2,19,8,Addicted
+11,4,1,196,6,Addicted
+2,2,0,40,9,Not Addicted
+6,5,3,165,4,Addicted
+12,0,4,69,9,Addicted
+7,0,2,258,7,Not Addicted
+12,0,0,279,8,Addicted
+9,7,4,226,7,Addicted
+3,2,4,11,7,Not Addicted
+10,4,1,33,8,Addicted
+3,0,1,215,8,Not Addicted
+7,4,0,208,9,Not Addicted
+4,2,5,123,7,Not Addicted
+8,7,5,289,6,Addicted
+7,5,4,164,9,Addicted
+5,7,1,174,8,Addicted
+7,4,2,231,4,Addicted
+3,7,2,100,9,Not Addicted
+12,7,4,176,5,Addicted
+2,5,1,216,6,Not Addicted
+6,2,0,291,9,Not Addicted
+2,2,0,74,8,Not Addicted
+3,3,0,13,8,Not Addicted
+6,7,2,166,6,Addicted
+5,2,1,258,5,Not Addicted
+8,2,1,266,9,Not Addicted
+9,1,2,244,9,Addicted
+11,0,0,83,7,Not Addicted
+3,3,0,196,4,Not Addicted
+12,6,4,71,8,Addicted
+10,3,5,173,9,Addicted
+3,3,3,65,9,Not Addicted
+3,6,5,120,9,Addicted
+6,1,1,227,5,Not Addicted
+1,7,1,249,4,Addicted
+7,5,1,30,9,Not Addicted
+12,2,5,150,6,Addicted
+1,0,3,274,8,Not Addicted
+5,4,4,148,7,Addicted
+10,7,5,79,6,Addicted
+8,6,3,127,8,Addicted
+4,5,0,207,5,Not Addicted
+5,7,0,214,4,Addicted
+4,6,1,223,4,Addicted
+12,2,2,65,8,Addicted
+12,1,1,296,6,Addicted
+4,7,2,184,7,Addicted
+12,6,3,137,5,Addicted
+8,2,0,297,8,Not Addicted
+2,2,5,235,5,Not Addicted
+1,1,2,73,4,Not Addicted
+3,3,3,57,9,Not Addicted
+9,7,0,211,9,Addicted
+4,7,5,69,7,Addicted
+10,3,2,266,5,Addicted
+5,0,1,74,8,Not Addicted
+2,0,1,248,7,Not Addicted
+4,3,1,298,6,Not Addicted
+2,5,3,47,9,Not Addicted
+2,4,1,34,8,Not Addicted
+4,2,4,68,5,Not Addicted
+6,4,0,167,7,Not Addicted
+7,2,3,66,8,Not Addicted
+10,3,5,57,7,Addicted
+3,0,1,65,7,Not Addicted
+3,5,0,74,7,Not Addicted
+10,0,2,277,5,Addicted
+6,4,1,78,8,Not Addicted
+12,0,0,225,4,Addicted
+3,3,4,98,4,Not Addicted
+2,5,2,290,5,Not Addicted
+8,4,4,266,5,Addicted
+5,5,5,169,9,Addicted
+1,7,0,243,7,Not Addicted
+3,2,4,140,8,Not Addicted
+10,0,5,58,8,Addicted
+8,5,0,156,6,Addicted
+4,1,0,11,6,Not Addicted
+7,7,4,154,4,Addicted
+10,0,0,70,6,Not Addicted
+12,2,1,282,6,Addicted
+2,5,0,58,4,Not Addicted
+7,4,3,140,9,Addicted
+5,2,5,52,4,Addicted
+5,1,0,66,6,Not Addicted
+6,5,3,59,8,Addicted
+9,6,0,187,6,Addicted
+6,6,0,55,7,Addicted
+12,3,4,179,7,Addicted
+8,0,1,280,7,Not Addicted
+7,4,5,148,9,Addicted
+9,3,1,256,5,Addicted
+4,5,2,157,7,Not Addicted
+2,6,4,239,8,Addicted
+7,6,4,289,9,Addicted
+6,6,1,134,5,Addicted
+1,5,4,201,5,Not Addicted
+11,6,1,89,7,Addicted
+9,2,4,103,6,Addicted
+9,7,0,235,4,Addicted
+12,5,1,74,6,Addicted
+2,4,1,97,6,Not Addicted
+3,7,3,97,5,Addicted
+5,3,4,210,5,Addicted
+5,4,4,223,9,Addicted
+1,7,1,213,9,Not Addicted
+8,1,0,98,5,Not Addicted
+12,6,0,70,8,Addicted
+8,1,5,280,8,Addicted
+4,0,0,103,4,Not Addicted
+7,0,4,36,5,Not Addicted
+11,7,3,223,7,Addicted
+10,1,1,83,9,Not Addicted
+3,5,2,70,5,Not Addicted
+6,4,3,195,8,Addicted
+10,1,2,40,5,Addicted
+10,0,3,228,8,Addicted
+12,1,0,21,5,Addicted
+9,5,4,41,7,Addicted
+1,1,2,169,4,Not Addicted
+5,4,3,246,7,Addicted
+4,3,4,236,8,Not Addicted
+8,5,2,190,9,Addicted
+11,0,1,55,9,Not Addicted
+12,4,3,89,6,Addicted
+1,1,1,144,7,Not Addicted
+9,1,0,269,5,Addicted
+6,3,1,256,4,Addicted
+4,0,1,168,5,Not Addicted
+12,0,5,212,5,Addicted
+9,2,3,121,7,Addicted
+11,0,0,128,4,Addicted
+5,3,1,26,6,Not Addicted
+5,6,4,236,5,Addicted
+12,2,2,126,4,Addicted
+5,2,1,52,6,Not Addicted
+1,1,0,124,5,Not Addicted
+1,1,1,292,4,Not Addicted
+8,0,2,46,7,Not Addicted
+12,2,0,122,9,Addicted
+8,7,3,44,9,Addicted
+12,1,0,141,5,Addicted
+6,3,3,237,5,Addicted
+12,7,0,156,4,Addicted
+11,1,2,131,9,Addicted
+4,5,2,90,5,Not Addicted
+2,5,0,182,6,Not Addicted
+2,1,1,163,5,Not Addicted
+9,2,2,159,9,Addicted
+5,6,3,67,8,Addicted
+4,6,3,72,9,Not Addicted
+10,2,4,165,6,Addicted
+1,4,5,177,4,Not Addicted
+7,6,5,175,6,Addicted
+3,5,5,94,8,Not Addicted
+6,3,3,146,8,Not Addicted
+5,2,4,198,5,Addicted
+5,0,5,11,5,Not Addicted
+11,5,5,115,9,Addicted
+5,3,0,81,7,Not Addicted
+1,3,0,135,6,Not Addicted
+1,2,0,179,9,Not Addicted
+3,3,1,214,7,Not Addicted
+12,2,5,204,9,Addicted
+10,6,1,167,8,Addicted
+4,1,4,150,5,Not Addicted
+5,5,3,284,5,Addicted
+2,4,5,16,9,Not Addicted
+8,1,3,63,5,Addicted
+11,5,0,113,4,Addicted
+11,2,5,70,9,Addicted
+2,5,2,96,8,Not Addicted
+9,6,1,267,9,Addicted
+2,2,1,187,9,Not Addicted
+9,1,5,251,5,Addicted
+7,0,0,212,8,Not Addicted
+8,0,1,40,9,Not Addicted
+11,7,0,298,5,Addicted
+2,7,4,89,6,Addicted
+7,5,3,20,8,Addicted
+12,0,2,263,7,Addicted
+6,2,3,296,4,Addicted
+4,3,3,185,7,Not Addicted
+7,2,4,135,8,Addicted
+4,3,1,56,9,Not Addicted
+2,1,2,215,5,Not Addicted
+10,4,1,116,8,Addicted
+12,3,5,284,4,Addicted
+7,0,3,132,8,Not Addicted
+8,2,5,143,5,Addicted
+2,1,0,116,7,Not Addicted
+5,0,3,59,6,Not Addicted
+1,1,1,104,7,Not Addicted
+7,4,3,277,5,Addicted
+8,6,0,32,5,Addicted
+6,2,4,63,4,Addicted
+5,5,5,263,8,Addicted
+6,2,5,244,8,Addicted
+2,7,1,68,7,Not Addicted
+1,4,3,173,6,Not Addicted
+7,2,1,268,6,Addicted
+7,7,4,225,4,Addicted
+10,5,3,192,5,Addicted
+11,3,3,66,4,Addicted
+10,1,1,154,8,Addicted
+2,5,1,99,9,Not Addicted
+2,0,0,54,9,Not Addicted
+1,4,4,266,9,Not Addicted
+10,3,0,30,5,Addicted
+8,0,5,30,4,Addicted
+8,0,3,61,7,Not Addicted
+1,4,1,180,8,Not Addicted
+12,3,3,76,9,Addicted
+11,6,3,122,6,Addicted
+8,0,2,169,4,Addicted
+9,0,5,275,8,Addicted
+4,3,2,241,8,Not Addicted
+1,2,3,77,6,Not Addicted
+1,0,1,37,6,Not Addicted
+3,1,3,125,6,Not Addicted
+5,3,5,60,9,Not Addicted
+5,0,2,190,9,Not Addicted
+9,4,1,269,4,Addicted
+10,5,3,88,6,Addicted
+12,1,4,282,7,Addicted
+2,7,5,117,8,Addicted
+2,7,5,83,6,Addicted
+6,5,4,184,8,Addicted
+9,7,3,193,5,Addicted
+1,5,5,32,5,Not Addicted
+9,0,1,283,6,Addicted
+9,1,3,138,8,Addicted
+9,1,3,195,5,Addicted
+5,2,2,68,6,Not Addicted
+9,5,5,10,8,Addicted
+11,1,5,140,6,Addicted
+4,2,4,76,9,Not Addicted
+2,3,2,294,8,Not Addicted
+6,2,2,98,5,Not Addicted
+4,4,5,109,6,Addicted
+6,6,3,198,5,Addicted
+3,0,2,250,6,Not Addicted
+6,3,4,279,4,Addicted
+2,6,2,228,5,Addicted
+2,6,4,185,5,Addicted
+9,3,2,242,7,Addicted
+7,4,4,160,9,Addicted
+3,2,2,286,5,Not Addicted
+11,0,2,238,8,Addicted
+1,2,1,180,6,Not Addicted
+8,1,4,232,4,Addicted
+6,2,4,222,8,Addicted
+7,7,4,291,8,Addicted
+9,3,0,50,8,Not Addicted
+5,0,2,131,8,Not Addicted
+1,2,4,236,4,Not Addicted
+12,0,5,97,7,Addicted
+10,0,0,276,9,Not Addicted
+7,1,1,38,5,Not Addicted
+5,1,4,256,8,Not Addicted
+3,3,4,253,5,Addicted
+12,4,0,70,5,Addicted
+9,7,2,156,8,Addicted
+1,6,5,183,7,Addicted
+1,0,1,287,5,Not Addicted
+1,4,4,151,6,Not Addicted
+3,6,2,53,5,Not Addicted
+12,6,5,153,9,Addicted
+6,7,5,64,8,Addicted
+10,3,1,170,4,Addicted
+11,6,3,294,5,Addicted
+3,7,5,207,7,Addicted
+8,6,3,168,6,Addicted
+10,0,5,89,6,Addicted
+2,0,1,40,4,Not Addicted
+9,5,0,121,9,Addicted
+3,4,1,55,4,Not Addicted
+5,2,1,214,9,Not Addicted
+10,7,0,61,5,Addicted
+8,1,0,147,8,Not Addicted
+2,7,2,83,7,Not Addicted
+6,2,5,50,6,Addicted
+12,4,2,86,4,Addicted
+5,1,0,196,7,Not Addicted
+10,2,3,61,9,Addicted
+9,5,3,96,8,Addicted
+12,1,1,118,6,Addicted
+5,0,4,234,6,Not Addicted
+2,2,1,257,9,Not Addicted
+5,7,1,78,8,Addicted
+12,1,4,129,6,Addicted
+4,5,5,76,8,Addicted
+11,7,0,70,6,Addicted
+7,6,3,200,5,Addicted
+6,1,1,198,9,Not Addicted
+2,1,4,160,8,Not Addicted
+12,5,2,295,7,Addicted
+11,6,1,105,5,Addicted
+11,2,3,272,7,Addicted
+5,3,0,106,9,Not Addicted
+7,2,1,122,6,Not Addicted
+11,6,1,134,7,Addicted
+7,4,5,141,5,Addicted
+5,7,4,130,8,Addicted
+12,5,2,206,4,Addicted
+9,2,2,131,7,Addicted
+4,1,0,291,4,Not Addicted
+11,5,3,269,9,Addicted
+3,0,0,48,7,Not Addicted
+4,6,1,63,7,Not Addicted
+5,7,1,170,8,Addicted
+6,2,2,298,6,Addicted
+3,5,3,209,5,Addicted
+2,7,4,285,5,Addicted
+4,2,3,25,5,Not Addicted
+5,5,1,182,9,Not Addicted
+4,1,4,257,6,Not Addicted
+11,0,3,227,4,Addicted
+12,0,3,96,5,Addicted
+3,4,4,91,4,Not Addicted
+8,5,1,71,6,Addicted
+10,2,3,296,9,Addicted
+4,0,4,51,6,Not Addicted
+2,6,5,21,8,Not Addicted
+2,0,5,243,5,Not Addicted
+1,3,1,140,9,Not Addicted
+4,3,4,124,8,Not Addicted
+10,0,5,227,5,Addicted
+9,5,4,146,6,Addicted
+11,4,3,115,6,Addicted
+7,0,1,188,7,Not Addicted
+12,1,5,25,7,Addicted
+10,7,3,251,6,Addicted
+7,2,0,235,6,Not Addicted
+7,4,0,251,4,Addicted
+8,1,1,150,4,Addicted
+1,4,5,208,8,Not Addicted
+10,1,5,121,7,Addicted
+10,2,5,136,7,Addicted
+8,2,4,30,6,Addicted
+4,3,3,156,6,Not Addicted
+4,5,5,98,8,Addicted
+4,1,3,212,9,Not Addicted
+6,7,1,94,9,Addicted
+7,3,5,176,9,Addicted
+6,1,1,81,7,Not Addicted
+1,3,5,18,4,Not Addicted
+12,2,0,290,9,Addicted
+8,4,2,267,5,Addicted
+10,6,1,284,8,Addicted
+11,3,5,247,9,Addicted
+7,1,2,29,5,Not Addicted
+6,1,1,242,9,Not Addicted
+6,6,4,230,4,Addicted
+5,5,5,26,4,Addicted
+6,7,4,98,9,Addicted
+12,2,0,205,5,Addicted
+9,1,5,93,8,Addicted
+10,0,0,96,5,Not Addicted
+9,4,2,163,8,Addicted
+10,3,1,237,9,Addicted
+8,5,3,273,8,Addicted
+10,7,0,232,6,Addicted
+9,6,3,130,7,Addicted
+10,4,3,182,7,Addicted
+8,2,1,13,4,Not Addicted
+8,5,2,137,6,Addicted
+1,7,1,119,7,Not Addicted
+10,3,5,46,9,Addicted
+11,3,0,80,8,Addicted
+5,6,3,298,8,Addicted
+4,0,1,40,5,Not Addicted
+2,6,1,277,5,Addicted
+8,2,1,20,8,Not Addicted
+3,5,0,41,9,Not Addicted
+4,5,2,66,8,Not Addicted
+12,1,1,175,5,Addicted
+7,0,0,197,7,Not Addicted
+10,0,3,28,4,Addicted
+9,5,5,125,5,Addicted
+2,5,4,193,9,Not Addicted
+3,4,0,279,7,Not Addicted
+4,7,4,42,7,Addicted
+10,4,1,19,7,Addicted
+1,4,1,89,6,Not Addicted
+7,0,0,201,6,Not Addicted
+2,1,4,199,7,Not Addicted
+5,3,1,77,9,Not Addicted
+1,4,3,134,8,Not Addicted
+3,1,2,68,9,Not Addicted
+12,6,2,106,6,Addicted
+2,2,1,284,5,Not Addicted
+1,4,4,158,6,Not Addicted
+7,6,5,287,8,Addicted
+5,3,1,274,4,Addicted
+1,2,5,18,6,Not Addicted
+6,2,5,292,9,Addicted
+5,3,4,282,9,Addicted
+3,4,5,17,7,Not Addicted
+12,0,3,217,7,Addicted
+7,3,4,134,7,Addicted
+11,3,1,132,4,Addicted
+10,3,3,42,8,Addicted
+9,2,0,10,5,Not Addicted
+9,7,2,213,9,Addicted
+9,1,1,15,9,Not Addicted
+2,6,1,14,8,Not Addicted
+3,0,1,89,4,Not Addicted
+7,4,3,283,7,Addicted
+5,4,0,186,8,Not Addicted
+2,6,4,145,5,Addicted
+3,1,0,34,7,Not Addicted
+10,3,3,192,5,Addicted
+6,7,1,177,6,Addicted
+7,0,2,187,5,Not Addicted
+9,4,1,104,7,Addicted
+1,6,4,42,6,Not Addicted
+11,5,5,120,7,Addicted
+7,7,2,155,9,Addicted
+8,6,1,240,7,Addicted
+12,7,2,281,6,Addicted
+3,4,5,47,5,Not Addicted
+4,3,0,144,9,Not Addicted
+10,5,3,244,4,Addicted
+6,1,1,169,4,Not Addicted
+10,0,4,47,4,Addicted
+7,1,0,159,4,Not Addicted
+4,1,1,38,8,Not Addicted
+8,6,0,153,4,Addicted
+5,7,4,85,6,Addicted
+1,0,1,154,4,Not Addicted
+4,0,5,238,7,Not Addicted
+3,4,5,73,4,Addicted
+9,4,4,278,5,Addicted
+8,0,2,193,6,Not Addicted
+1,5,4,270,6,Not Addicted
+11,2,2,277,9,Addicted
+6,4,1,178,8,Not Addicted
+9,2,2,268,7,Addicted
+7,6,1,236,6,Addicted
+4,5,1,42,5,Not Addicted
+1,0,3,223,4,Not Addicted
+12,5,1,59,6,Addicted
+2,4,2,219,5,Not Addicted
+12,1,3,38,4,Addicted
+5,6,3,48,8,Addicted
+12,0,1,109,6,Addicted
+11,3,4,182,6,Addicted
+5,6,4,26,5,Addicted
+8,7,5,65,9,Addicted
+6,2,3,235,7,Addicted
+8,5,1,55,8,Addicted
+2,0,4,76,7,Not Addicted
+3,6,1,206,6,Not Addicted
+6,5,1,151,7,Addicted
+12,0,3,32,4,Addicted
+10,4,5,103,8,Addicted
+3,6,3,251,7,Addicted
+6,4,0,246,4,Addicted
+6,6,4,63,5,Addicted
+2,4,4,147,7,Not Addicted
+7,7,4,281,8,Addicted
+12,5,2,50,4,Addicted
+2,3,1,107,7,Not Addicted
+6,6,3,192,5,Addicted
+1,7,4,137,7,Not Addicted
+3,6,0,238,4,Addicted
+2,4,4,95,7,Not Addicted
+7,0,5,265,8,Addicted
+4,6,1,218,6,Addicted
+8,7,1,224,4,Addicted
+6,4,3,109,4,Addicted
+12,1,2,58,4,Addicted
+10,4,3,210,4,Addicted
+4,5,4,267,7,Addicted
+5,3,5,187,8,Addicted
+9,1,0,254,5,Addicted
+7,5,3,132,8,Addicted
+10,5,2,180,4,Addicted
+9,5,3,145,9,Addicted
+7,0,1,68,7,Not Addicted
+12,5,4,202,9,Addicted
+1,0,4,277,7,Not Addicted
+12,5,4,269,4,Addicted
+8,2,4,104,7,Addicted
+4,7,4,134,4,Addicted
+3,1,4,50,8,Not Addicted
+7,2,0,263,6,Not Addicted
+12,5,2,16,7,Addicted
+3,1,4,225,4,Not Addicted
+8,1,2,78,9,Not Addicted
+6,6,5,78,4,Addicted
+5,3,4,90,9,Not Addicted
+4,2,3,39,7,Not Addicted
+8,3,4,82,5,Addicted
+8,1,1,271,9,Not Addicted
+12,0,0,98,4,Addicted
+1,1,3,217,7,Not Addicted
+9,3,3,222,4,Addicted
+5,2,1,275,5,Not Addicted
+4,5,4,216,6,Addicted
+6,6,0,86,5,Addicted
+6,6,3,297,8,Addicted
+2,6,0,56,7,Not Addicted
+8,5,3,119,5,Addicted
+7,6,4,209,6,Addicted
+1,2,5,219,4,Not Addicted
+5,5,3,163,7,Addicted
+12,6,5,19,9,Addicted
+6,5,3,166,5,Addicted
+4,3,2,270,6,Not Addicted
+2,7,4,86,5,Addicted
+4,7,1,266,8,Addicted
+1,2,5,140,7,Not Addicted
+7,4,1,76,4,Addicted
+2,0,4,237,6,Not Addicted
+2,6,1,172,5,Not Addicted
+9,0,4,24,7,Not Addicted
+5,5,1,241,5,Addicted
+2,0,5,204,7,Not Addicted
+11,2,2,39,8,Addicted
+9,2,1,229,5,Addicted
+9,1,5,156,8,Addicted
+1,7,3,268,9,Not Addicted
+11,6,4,152,9,Addicted
+3,1,0,244,6,Not Addicted
+4,0,0,124,8,Not Addicted
+7,4,4,99,7,Addicted
+10,1,2,217,6,Addicted
+4,1,1,173,5,Not Addicted
+2,2,2,93,5,Not Addicted
+7,4,0,86,7,Not Addicted
+6,5,5,170,4,Addicted
+3,0,4,14,4,Not Addicted
+6,1,4,87,5,Not Addicted
+11,4,2,100,7,Addicted
+6,7,5,96,4,Addicted
+12,6,2,279,8,Addicted
+5,4,1,113,5,Not Addicted
+4,7,3,184,9,Addicted
+10,0,5,63,8,Addicted
+12,4,3,220,7,Addicted
+1,7,1,104,9,Not Addicted
+10,4,3,232,8,Addicted
+6,4,0,18,4,Not Addicted
+2,6,3,62,4,Not Addicted
+3,7,1,86,9,Not Addicted
+8,7,3,215,6,Addicted
+10,1,4,121,5,Addicted
+6,0,2,174,9,Not Addicted
+3,6,0,288,7,Not Addicted
+7,4,4,36,5,Addicted
+4,4,4,79,8,Not Addicted
+9,1,1,227,7,Addicted
+5,0,2,198,7,Not Addicted
+3,2,2,133,4,Not Addicted
+2,6,5,28,8,Not Addicted
+11,1,0,266,4,Addicted
+2,0,1,31,4,Not Addicted
+3,6,0,49,6,Not Addicted
+2,4,5,47,4,Not Addicted
+4,0,3,57,5,Not Addicted
+2,0,4,192,7,Not Addicted
+10,5,0,84,4,Addicted
+9,0,4,218,9,Addicted
+2,2,1,192,5,Not Addicted
+9,0,3,116,8,Not Addicted
+6,2,1,197,7,Not Addicted
+1,4,3,273,9,Not Addicted
+4,2,3,95,9,Not Addicted
+1,6,4,146,8,Not Addicted
+6,4,1,104,9,Not Addicted
+4,4,1,254,5,Not Addicted
+3,2,0,99,8,Not Addicted
+3,7,1,68,9,Not Addicted
+9,1,0,37,8,Not Addicted
+6,3,2,81,8,Not Addicted
+9,7,2,279,4,Addicted
+5,0,2,33,4,Not Addicted
+2,5,5,121,4,Addicted
+8,3,1,65,9,Not Addicted
+5,0,5,232,7,Not Addicted
+2,7,1,129,5,Not Addicted
+4,7,0,188,9,Not Addicted
+9,0,5,297,4,Addicted
+4,4,5,290,8,Addicted
+12,0,5,198,9,Addicted
+12,5,3,75,8,Addicted
+12,7,0,258,8,Addicted
+4,0,2,85,8,Not Addicted
+2,2,0,146,6,Not Addicted
+12,3,3,173,7,Addicted
+6,2,1,242,5,Not Addicted
+11,5,0,264,5,Addicted
+2,0,5,179,4,Not Addicted
+12,6,2,183,6,Addicted
+7,5,2,27,9,Addicted
+3,4,1,79,9,Not Addicted
+3,2,0,125,5,Not Addicted
+5,2,3,89,7,Not Addicted
+3,1,1,24,8,Not Addicted
+2,0,0,185,4,Not Addicted
+10,4,4,278,7,Addicted
+9,6,2,128,5,Addicted
+2,2,3,197,6,Not Addicted
+11,2,5,66,4,Addicted
+2,4,3,208,5,Not Addicted
+8,5,5,26,9,Addicted
+9,5,3,297,4,Addicted
+7,0,2,64,5,Not Addicted
+3,7,5,278,9,Addicted
+9,1,0,96,9,Not Addicted
+3,2,5,38,8,Not Addicted
+5,7,1,31,6,Addicted
+9,7,0,294,8,Addicted
+12,1,1,57,5,Addicted
+3,7,3,14,7,Not Addicted
+7,7,0,259,8,Addicted
+12,5,3,172,7,Addicted
+1,5,4,211,9,Not Addicted
+4,3,3,110,5,Not Addicted
+4,6,3,80,6,Addicted
+7,0,1,172,7,Not Addicted
+8,7,5,182,5,Addicted
+1,3,4,150,7,Not Addicted
+5,6,3,147,8,Addicted
+7,3,3,75,5,Addicted
+12,3,4,207,8,Addicted
+4,0,4,237,4,Not Addicted
+4,0,0,290,5,Not Addicted
+4,4,1,181,7,Not Addicted
+12,1,4,49,4,Addicted
+6,1,4,16,8,Not Addicted
+7,4,2,183,8,Addicted
+2,4,5,160,7,Not Addicted
+5,5,4,220,4,Addicted
+4,6,1,95,9,Not Addicted
+3,3,5,262,6,Addicted
+7,7,5,30,7,Addicted
+11,4,3,266,8,Addicted
+12,2,3,42,5,Addicted
+6,1,3,269,4,Addicted
+7,4,3,243,9,Addicted
+5,2,2,12,6,Not Addicted
+6,2,4,236,5,Addicted
+5,2,3,293,4,Addicted
+7,5,0,79,9,Not Addicted
+2,5,3,263,7,Not Addicted
+11,7,4,153,9,Addicted
+5,7,3,33,7,Addicted
+6,2,2,243,4,Addicted
+6,6,1,184,9,Addicted
+5,5,1,168,6,Addicted
+10,3,4,295,9,Addicted
+7,2,1,27,4,Not Addicted
+10,3,1,53,5,Addicted
+8,3,0,164,5,Addicted
+7,2,4,240,9,Addicted
+5,1,4,234,9,Not Addicted
+1,6,1,226,7,Not Addicted
+5,2,1,65,4,Not Addicted
+10,7,1,40,7,Addicted
+2,2,5,68,6,Not Addicted
+5,5,2,244,5,Addicted
+5,2,3,116,8,Not Addicted
+2,1,2,200,8,Not Addicted
+5,5,4,27,4,Addicted
+4,7,0,235,4,Addicted
+1,0,3,176,8,Not Addicted
+3,0,0,80,4,Not Addicted
+1,3,5,63,5,Not Addicted
+12,6,4,254,6,Addicted
+11,3,5,85,6,Addicted
+5,1,4,44,7,Not Addicted
+4,4,0,276,5,Not Addicted
+7,7,0,130,4,Addicted
+5,6,0,34,4,Addicted
+10,7,4,169,7,Addicted
+4,0,1,93,7,Not Addicted
+2,3,0,123,4,Not Addicted
+4,7,5,232,4,Addicted
+12,0,3,175,5,Addicted
+2,1,4,200,7,Not Addicted
+8,1,5,184,5,Addicted
+3,4,2,10,9,Not Addicted
+9,7,2,238,4,Addicted
+4,4,3,95,8,Not Addicted
+6,5,1,71,8,Not Addicted
+10,6,0,215,9,Addicted
+5,7,4,114,4,Addicted
+10,1,5,259,7,Addicted
+1,3,0,22,8,Not Addicted
+9,0,5,172,7,Addicted
+1,2,4,52,8,Not Addicted
+8,4,2,120,7,Addicted
+9,2,0,214,8,Addicted
+9,7,3,265,7,Addicted
+1,3,1,153,9,Not Addicted
+2,4,3,155,5,Not Addicted
+12,2,1,173,7,Addicted
+1,6,5,178,5,Addicted
+10,3,0,242,5,Addicted
+2,0,0,280,4,Not Addicted
+10,6,1,69,9,Addicted
+12,3,2,244,5,Addicted
+8,5,4,174,6,Addicted
+5,4,3,203,5,Addicted
+12,1,5,243,7,Addicted
+11,0,3,192,5,Addicted
+7,7,3,241,7,Addicted
+2,6,5,116,7,Addicted
+8,6,5,232,6,Addicted
+11,2,0,89,5,Addicted
+6,4,3,243,5,Addicted
+8,7,4,193,8,Addicted
+1,1,4,194,8,Not Addicted
+1,3,1,143,4,Not Addicted
+12,1,5,229,7,Addicted
+7,4,0,297,6,Addicted
+8,4,4,211,8,Addicted
+3,5,2,155,5,Not Addicted
+5,5,0,136,4,Addicted
+12,1,0,144,6,Addicted
+1,3,4,123,9,Not Addicted
+7,1,2,273,5,Addicted
+5,4,1,73,5,Not Addicted
+8,4,4,144,9,Addicted
+8,2,2,50,7,Not Addicted
+9,5,0,12,7,Addicted
+7,7,2,203,8,Addicted
+11,7,0,119,8,Addicted
+1,7,4,230,5,Addicted
+3,2,5,13,5,Not Addicted
+8,0,4,253,8,Addicted
+3,7,3,175,9,Addicted
+8,4,3,35,8,Addicted
+1,2,3,26,5,Not Addicted
+5,1,4,225,6,Not Addicted
+4,5,1,101,5,Not Addicted
+5,5,4,40,6,Addicted
+8,3,5,214,6,Addicted
+10,1,2,216,5,Addicted
+4,3,4,116,4,Addicted
+11,2,4,155,8,Addicted
+4,6,0,110,7,Not Addicted
+3,7,0,250,5,Addicted
+7,0,0,256,6,Not Addicted
+3,1,4,172,5,Not Addicted
+12,1,1,182,8,Addicted
+3,1,2,44,9,Not Addicted
+11,3,2,293,6,Addicted
+10,2,5,30,7,Addicted
+5,1,1,172,7,Not Addicted
+5,6,1,106,7,Addicted
+6,1,2,64,9,Not Addicted
+8,5,3,136,4,Addicted
+10,7,0,202,6,Addicted
+6,0,0,252,9,Not Addicted
+12,7,2,97,6,Addicted
+1,5,1,224,9,Not Addicted
+8,5,5,101,9,Addicted
+8,0,3,244,4,Addicted
+9,6,2,193,6,Addicted
+9,2,0,47,9,Not Addicted
+2,5,4,148,4,Addicted
+2,2,1,204,5,Not Addicted
+3,5,4,24,8,Not Addicted
+1,4,5,266,9,Not Addicted
+4,0,2,144,7,Not Addicted
+4,5,0,10,4,Not Addicted
+9,4,3,58,4,Addicted
+9,7,4,105,9,Addicted
+9,3,3,210,4,Addicted
+10,4,5,35,5,Addicted
+7,1,0,244,4,Not Addicted
+2,5,4,253,8,Not Addicted
+10,4,5,60,8,Addicted
+5,2,3,90,7,Not Addicted
+4,3,3,45,5,Not Addicted
+12,6,4,76,8,Addicted
+11,5,0,138,9,Addicted
+8,1,3,164,6,Addicted
+2,6,2,254,6,Addicted
+6,4,5,120,6,Addicted
+5,6,4,177,9,Addicted
+12,6,1,151,4,Addicted
+2,3,1,206,9,Not Addicted
+11,7,0,118,4,Addicted
+10,6,2,88,6,Addicted
+1,6,3,170,7,Not Addicted
+8,5,1,28,7,Addicted
+2,7,0,136,4,Not Addicted
+7,3,5,214,6,Addicted
+9,1,2,38,9,Not Addicted
+9,4,2,216,7,Addicted
+8,3,0,289,4,Addicted
+11,3,0,160,9,Addicted
+12,0,3,249,6,Addicted
+10,3,0,275,5,Addicted
+9,7,3,191,6,Addicted
+2,0,3,114,6,Not Addicted
+6,4,4,245,9,Addicted
+4,6,2,182,9,Not Addicted
+4,5,5,167,8,Addicted
+5,5,2,181,8,Addicted
+12,4,2,166,9,Addicted
+3,4,4,267,9,Not Addicted
+1,7,3,173,5,Addicted
+8,2,3,156,5,Addicted
+5,6,0,163,6,Addicted
+3,4,4,47,7,Not Addicted
+10,3,0,140,5,Addicted
+7,7,4,264,6,Addicted
+7,5,0,217,4,Addicted
+1,1,1,104,8,Not Addicted
+12,7,2,180,7,Addicted
+9,5,2,259,6,Addicted
+2,0,5,199,9,Not Addicted
+5,7,3,208,4,Addicted
+5,5,5,230,8,Addicted
+8,2,1,33,4,Addicted
+8,7,5,253,6,Addicted
+7,7,2,137,5,Addicted
+7,6,3,102,8,Addicted
+12,4,1,142,4,Addicted
+11,6,2,64,5,Addicted
+6,7,0,167,7,Addicted
+6,4,4,38,6,Addicted
+11,5,1,220,6,Addicted
+9,1,3,163,8,Addicted
+6,1,5,231,4,Addicted
+12,7,5,124,7,Addicted
+2,2,1,167,9,Not Addicted
+2,0,3,268,8,Not Addicted
+5,5,1,260,9,Not Addicted
+4,4,3,131,8,Not Addicted
+11,7,5,272,4,Addicted
+2,5,2,58,7,Not Addicted
+3,7,0,86,4,Not Addicted
+7,2,2,136,6,Not Addicted
+8,3,0,206,9,Not Addicted
+12,3,5,230,5,Addicted
+6,2,2,100,6,Not Addicted
+11,4,2,17,6,Addicted
+5,6,1,41,9,Not Addicted
+1,2,4,278,8,Not Addicted
+8,7,5,200,6,Addicted
+3,4,3,172,7,Not Addicted
+6,1,5,70,6,Not Addicted
+3,2,3,273,7,Not Addicted
+7,4,3,294,4,Addicted
+7,2,0,104,8,Not Addicted
+12,2,3,50,7,Addicted
+9,6,3,158,6,Addicted
+5,6,1,213,8,Addicted
+8,7,2,276,8,Addicted
+10,4,5,11,7,Addicted
+10,4,5,187,7,Addicted
+8,0,3,203,5,Addicted
+1,2,4,205,5,Not Addicted
+12,3,5,258,8,Addicted
+5,2,3,221,9,Not Addicted
+3,2,0,162,9,Not Addicted
+1,4,0,167,5,Not Addicted
+4,2,0,148,6,Not Addicted
+8,5,3,230,4,Addicted
+3,2,1,282,8,Not Addicted
+10,5,4,163,4,Addicted
+2,6,3,258,5,Addicted
+11,3,1,288,7,Addicted
+9,7,1,285,8,Addicted
+10,4,5,11,5,Addicted
+5,2,3,97,6,Not Addicted
+7,5,3,296,8,Addicted
+11,5,1,139,8,Addicted
+11,6,1,87,9,Addicted
+2,5,1,269,7,Not Addicted
+9,7,5,250,8,Addicted
+9,1,3,150,7,Addicted
+4,0,1,237,5,Not Addicted
+4,7,0,172,6,Addicted
+6,3,3,245,6,Addicted
+10,7,5,137,8,Addicted
+10,6,0,209,8,Addicted
+10,6,2,40,5,Addicted
+6,7,3,147,9,Addicted
+12,2,2,30,9,Addicted
+1,1,1,243,9,Not Addicted
+9,2,5,211,7,Addicted
+2,2,1,288,9,Not Addicted
+5,7,5,140,6,Addicted
+9,4,4,157,7,Addicted
+4,4,1,38,5,Not Addicted
+11,4,2,171,6,Addicted
+3,1,5,70,6,Not Addicted
+7,2,1,134,4,Addicted
+6,0,3,80,5,Not Addicted
+8,3,5,252,5,Addicted
+3,4,5,258,4,Addicted
+5,4,1,230,7,Not Addicted
+10,6,4,30,9,Addicted
+4,2,1,91,9,Not Addicted
+4,2,2,19,9,Not Addicted
+4,1,2,21,9,Not Addicted
+10,1,5,272,9,Addicted
+8,4,5,154,4,Addicted
+6,2,1,201,5,Not Addicted
+3,0,2,259,7,Not Addicted
+10,3,2,123,6,Addicted
+5,7,4,35,9,Addicted
+6,2,3,280,4,Addicted
+5,6,4,42,7,Addicted
+6,7,0,71,7,Addicted
+8,2,4,238,7,Addicted
+7,5,1,104,4,Addicted
+5,1,3,44,6,Not Addicted
+10,6,1,202,9,Addicted
+6,3,0,85,7,Not Addicted
+4,4,3,258,4,Addicted
+12,6,5,92,5,Addicted
+9,2,2,34,4,Addicted
+4,4,4,66,4,Addicted
+1,2,1,41,4,Not Addicted
+7,4,0,21,7,Not Addicted
+7,3,2,101,4,Addicted
+4,1,4,10,5,Not Addicted
+3,3,2,145,7,Not Addicted
+8,5,4,205,5,Addicted
+5,0,5,142,8,Not Addicted
+10,1,3,95,4,Addicted
+7,3,2,288,9,Addicted
+4,5,2,189,9,Not Addicted
+4,0,2,13,7,Not Addicted
+8,5,3,135,9,Addicted
+8,2,0,184,7,Not Addicted
+2,7,4,260,4,Addicted
+2,2,5,30,6,Not Addicted
+3,4,2,114,6,Not Addicted
+12,1,3,75,5,Addicted
+12,2,0,272,4,Addicted
+3,6,4,58,9,Not Addicted
+1,5,3,25,4,Not Addicted
+3,1,5,154,8,Not Addicted
+6,7,5,259,6,Addicted
+8,6,4,84,9,Addicted
+12,2,2,299,6,Addicted
+10,4,5,291,4,Addicted
+6,3,0,75,9,Not Addicted
+5,4,3,134,5,Addicted
+4,6,0,96,4,Not Addicted
+3,0,2,50,5,Not Addicted
+4,2,0,195,9,Not Addicted
+7,6,0,275,6,Addicted
+1,0,1,280,8,Not Addicted
+7,0,0,51,7,Not Addicted
+1,5,4,102,6,Not Addicted
+2,1,3,194,5,Not Addicted
+4,5,1,224,4,Addicted
+1,2,3,26,9,Not Addicted
+11,0,3,274,6,Addicted
+12,7,2,123,8,Addicted
+11,6,2,57,9,Addicted
+11,3,1,106,5,Addicted
+9,0,5,104,9,Addicted
+12,6,2,83,9,Addicted
+6,7,2,77,4,Addicted
+1,3,2,255,7,Not Addicted
+1,5,3,86,5,Not Addicted
+6,5,1,217,4,Addicted
+4,1,3,263,7,Not Addicted
+4,6,4,230,4,Addicted
+11,0,3,271,7,Addicted
+6,4,4,268,7,Addicted
+12,5,0,83,7,Addicted
+11,5,0,134,4,Addicted
+7,1,4,197,9,Not Addicted
+9,3,4,263,7,Addicted
+10,1,3,244,9,Addicted
+5,7,4,259,5,Addicted
+9,0,1,81,8,Not Addicted
+4,6,0,244,9,Not Addicted
+10,2,0,165,8,Addicted
+2,2,5,124,7,Not Addicted
+3,6,4,237,8,Addicted
+11,3,2,254,8,Addicted
+1,7,2,23,7,Not Addicted
+6,5,4,25,9,Addicted
+6,3,1,51,7,Not Addicted
+1,5,2,119,5,Not Addicted
+11,5,5,287,6,Addicted
+3,2,4,28,4,Not Addicted
+5,3,1,75,7,Not Addicted
+3,7,1,176,7,Addicted
+10,1,3,82,8,Addicted
+3,5,1,121,5,Not Addicted
+10,4,2,283,8,Addicted
+3,4,2,94,9,Not Addicted
+5,1,4,148,7,Not Addicted
+5,4,4,48,7,Not Addicted
+4,0,1,114,8,Not Addicted
+1,5,5,290,7,Addicted
+5,1,0,132,9,Not Addicted
+10,3,3,227,6,Addicted
+5,5,0,70,4,Not Addicted
+4,1,1,109,4,Not Addicted
+6,2,1,213,4,Not Addicted
+10,7,0,267,6,Addicted
+4,3,3,14,7,Not Addicted
+7,7,0,206,8,Addicted
+7,2,4,189,5,Addicted
+2,5,2,142,7,Not Addicted
+3,3,5,262,6,Addicted
+1,7,4,274,9,Addicted
+8,4,2,102,6,Addicted
+9,7,5,159,4,Addicted
+4,1,5,147,7,Not Addicted
+6,5,5,217,4,Addicted
+9,0,1,134,5,Not Addicted
+6,7,5,243,9,Addicted
